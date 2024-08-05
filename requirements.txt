@@ -4,3 +4,8 @@ gunicorn
 dj-database-url
 psycopg2
 numpy
+pandas
+plotly
+statsmodels
+matplotlib
+seaborn
