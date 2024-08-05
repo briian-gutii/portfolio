@@ -1,0 +1,129 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Bryan Gutierrez - Portfolio{% endblock %}
+
+{% block extra_head %}
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+{% endblock %}
+
+{% block content %}
+<section id="about" class="hero">
+    <h1 class="hero-title">Analista de datos y desarrollador</h1>
+    <p class="hero-subtitle">Soy un analista de datos y desarrollador con experiencia en interpretar datos y crear soluciones tecnológicas. Tengo habilidades en análisis estadístico, visualización de datos y desarrollo de software. Mi enfoque meticuloso y habilidades técnicas me permiten resolver problemas y aportar valor a los equipos con los que colaboro.</p>
+    <div class="hero-image">
+        <img src="{% static 'images/bryan_gutierrez.jpg' %}" alt="Bryan Gutierrez" class="profile-pic">
+    </div>
+</section>
+
+<section class="skills-showcase">
+    <img src="{% static 'images/skills_showcase.png' %}" alt="Skills showcase" class="skills-image">
+</section>
+
+<section id="projects" class="projects">
+    <div class="container">
+        <h2>Mis Proyectos</h2>
+        <div class="project-grid">
+            {% for project in projects %}
+            <div class="project-card">
+                <img src="{{ project.image.url }}" alt="{{ project.title }}">
+                <div class="card-content">
+                    <h3>{{ project.title }}</h3>
+                    <div class="overlay">
+                        <p>{{ project.description|truncatewords:20 }}</p>
+                        <div class="btn-container">
+                            <span class="technology">{{ project.technology }}</span>
+                            <a href="{% url 'project_detail' project.id %}" class="btn-secondary">Ver detalles</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% empty %}
+            <p>No hay proyectos para mostrar aún.</p>
+            {% endfor %}
+            <div class="project-card">
+                <img src="{% static 'images/data_analysis_project.jpg' %}" alt="Nuevo Proyecto de Análisis de Datos">
+                <div class="card-content">
+                    <h3>Nuevo Proyecto de Análisis de Datos</h3>
+                    <div class="overlay">
+                        <p>Un análisis detallado de datos meteorológicos.</p>
+                        <div class="btn-container">
+                            <span class="technology">Python, Pandas, Plotly</span>
+                            <a href="{% url 'new_data_project' %}" class="btn-secondary">Ver proyecto</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="project-card">
+                <img src="{% static 'images/flight_analysis_project.jpg' %}" alt="Análisis de Vuelos">
+                <div class="card-content">
+                    <h3>Análisis de Vuelos</h3>
+                    <div class="overlay">
+                        <p>Un análisis detallado de datos de vuelos.</p>
+                        <div class="btn-container">
+                            <span class="technology">Python, Pandas, Plotly</span>
+                            <a href="{% url 'flight_project' %}" class="btn-secondary">Ver proyecto</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="project-card">
+                <img src="{% static 'images/flight_analysis_project.jpg' %}" alt="Análisis de Vuelos">
+                <div class="card-content">
+                    <h3>Incidentes</h3>
+                    <div class="overlay">
+                        <p>Un análisis detallado de datos de vuelos.</p>
+                        <div class="btn-container">
+                            <span class="technology">Python, Pandas, Plotly</span>
+                            <a href="{% url 'incidentes_project' %}" class="btn-secondary">Ver proyecto</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="project-card">
+                <img src="{% static 'images/flight_analysis_project.jpg' %}" alt="Análisis de Vuelos">
+                <div class="card-content">
+                    <h3>Incendios</h3>
+                    <div class="overlay">
+                        <p>Analisis de incendios en Guatemala</p>
+                        <div class="btn-container">
+                            <span class="technology">Python, Pandas, Plotly</span>
+                            <a href="{% url 'nuevo_proyecto' %}" class="btn-secondary">Ver proyecto</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="skills" class="skills">
+    <div class="container">
+        <h2>Mis Habilidades</h2>
+        <div class="skills-grid">
+            {% for skill in skills %}
+            <div class="skill-item">
+                <div class="skill-info">
+                    <span class="skill-name">{{ skill.name }}</span>
+                    <span class="skill-percentage">{{ skill.level }}%</span>
+                </div>
+                <div class="skill-bar">
+                    <div class="skill-level" style="width: {{ skill.level }}%"></div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="contact">
+    <div class="container">
+        <h2>Contacto</h2>
+        <form id="contact-form" method="post">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <button type="submit" class="btn-primary">Enviar mensaje</button>
+        </form>
+    </div>
+</section>
+{% endblock %}

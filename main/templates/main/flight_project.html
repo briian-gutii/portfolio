@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Análisis de Vuelos Guatemala 2024{% endblock %}
+
+{% block extra_head %}
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+{% endblock %}
+
+{% block content %}
+<section class="flight-project">
+    <div class="container">
+        <h1>Análisis de Vuelos Guatemala 2024</h1>
+        <p>Este proyecto analiza datos de vuelos desde y hacia Guatemala, incluyendo aterrizajes y despegues por país y mes.</p>
+        
+        <div class="chart-container">
+            <h3>Total de Vuelos por País</h3>
+            {{ chart1|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Comparación de Aterrizajes y Despegues por País</h3>
+            {{ chart2|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Tendencia de Vuelos a lo Largo de los Meses</h3>
+            {{ chart3|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Mapa de Calor: Vuelos por País y Mes</h3>
+            {{ chart4|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Distribución de Vuelos: Aterrizajes vs Despegues</h3>
+            {{ chart5|safe }}
+        </div>
+    </div>
+</section>
+{% endblock %}

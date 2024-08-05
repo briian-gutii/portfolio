@@ -1,0 +1,42 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Nuevo Proyecto de Análisis de Datos{% endblock %}
+
+{% block extra_head %}
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+{% endblock %}
+
+{% block content %}
+<section class="data-project">
+    <div class="container">
+        <h1>Análisis de Datos Meteorológicos</h1>
+        <p>Este proyecto analiza datos meteorológicos simulados a lo largo de un año, incluyendo temperatura, humedad, velocidad del viento y precipitaciones.</p>
+        
+        <div class="chart-container">
+            <h3>Temperatura a lo largo del año</h3>
+            {{ chart1|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Distribución de Temperaturas</h3>
+            {{ chart2|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Relación entre Temperatura y Humedad</h3>
+            {{ chart3|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Distribución de Temperatura por Estación</h3>
+            {{ chart4|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Mapa de Calor de Correlación</h3>
+            {{ chart5|safe }}
+        </div>
+    </div>
+</section>
+{% endblock %}

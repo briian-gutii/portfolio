@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Proyecto de Análisis de Incidentes{% endblock %}
+
+{% block extra_head %}
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+{% endblock %}
+
+{% block content %}
+<section class="data-project">
+    <div class="container">
+        <h1>Análisis de Incidentes - 2022</h1>
+        <p>Este proyecto analiza datos de incidentes ocurridos durante el año 2022, incluyendo el tipo de incidente, lugar y frecuencia.</p>
+        
+        <div class="chart-container">
+            <h3>Total de Incidentes por Mes</h3>
+            {{ chart1|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Top 10 Tipos de Incidentes</h3>
+            {{ chart2|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Top 10 Municipios con Más Incidentes</h3>
+            {{ chart3|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Incidentes por Día de la Semana</h3>
+            {{ chart4|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Mapa de Calor de Correlación</h3>
+            {{ chart5|safe }}
+        </div>
+        
+        <div class="chart-container">
+            <h3>Predicción de Incidentes para los Próximos Meses</h3>
+            {{ chart6|safe }}
+        </div>
+    </div>
+</section>
+{% endblock %}

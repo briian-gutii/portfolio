@@ -1,0 +1,35 @@
+
+
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}Análisis de Supresión 2022{% endblock %}
+
+{% block content %}
+<section class="data-project">
+    <div class="container">
+        <h1>Análisis de Supresión 2022</h1>
+        <p>Este proyecto analiza los datos de supresión de incendios del año 2022.</p>
+        
+        <div class="chart-container">
+            <h3>Tendencia de Valores a lo Largo del Tiempo</h3>
+            <img src="{% static 'images/line_plot.png' %}" alt="Tendencia de Valores a lo Largo del Tiempo">
+        </div>
+        
+        <div class="chart-container">
+            <h3>Comparación de Valores entre Categorías</h3>
+            <img src="{% static 'images/bar_plot.png' %}" alt="Comparación de Valores entre Categorías">
+        </div>
+        
+        <div class="chart-container">
+            <h3>Relación entre Latitud y Longitud</h3>
+            <img src="{% static 'images/scatter_plot.png' %}" alt="Relación entre Variable1 y Variable2">
+        </div>
+        
+        <div class="chart-container">
+            <h3>Mapa de Calor de Correlaciones</h3>
+            <img src="{% static 'images/heatmap.png' %}" alt="Mapa de Calor de Correlaciones">
+        </div>
+    </div>
+</section>
+{% endblock %}

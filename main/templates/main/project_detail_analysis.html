@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block extra_head %}
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+{% endblock %}
+
+{% block content %}
+<h1>{{ project.title }}</h1>
+<p>{{ project.description }}</p>
+<div>
+    {{ chart|safe }}
+</div>
+<h2>Resultados del análisis</h2>
+<pre>{{ project.analysis_results }}</pre>
+{% endblock %}

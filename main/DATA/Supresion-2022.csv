@@ -1,0 +1,951 @@
+﻿Fecha Reporte;Hora Reporte;Tipo;Departamento;Municipio;Lugar;Latitud;Longitud;Hectáreas
+1/07/2021;15:00:00;No Forestal;Peten;La Libertad;Oeste de Yaxchilán, PNSL                                                            ;16.98083333;-90.95527778;1.5
+26/07/2021;16:30:00;Forestal;Peten;San Benito;Colonia Juarez,;16.91333333;-89.94444444;0.5
+16/08/2021;11:00:00;Forestal;Peten;San Benito;Colonia Juarez;16.91555556;-89.94888889;2
+16/08/2021;11:00:00;No Forestal;Peten;San Benito;Colonia Juarez;16.91555556;-89.94888889;2
+14/10/2021;13:00:00;Forestal;Alta Verapaz;Lanquin;Cerro Cawa MontFinca Chamel;15.56416667;-89.98722222;2.5
+16/10/2021;13:44:00;No Forestal;Zacapa;Zacapa;Colonia Metrópolis de Oriente, Aldea La Majada;14.94388889;-90.20194444;3.3
+18/10/2021;15:30:00;Forestal;Quiche;Santa Cruz Del Quiche;Caserío Chicorral;15.04361111;-91.18333333;3
+22/10/2021;15:40:00;Forestal;Peten;Poptun;Caserio Las Canoas;16.37166667;-89.40222222;0.5
+4/11/2021;13:50:00;No Forestal;Zacapa;Rio Hondo;Sunzapote;15.04194444;-89.59527778;1
+10/11/2021;09:00:00;No Forestal;Zacapa;Rio Hondo;Aldea Pasabien;15.03833333;-89.67416667;5
+11/11/2021;20:07:00;Forestal;Peten;Poptun;Colonia Nueva Jerusalén;16.31861111;-89.445;0.6
+30/11/2021;17:00:00;Forestal;Solola;Santa Lucia Utatlan;Aldea El Novillero;14.79444444;-91.25222222;0.5
+1/12/2021;09:00:00;No Forestal;Zacapa;Rio Hondo;Aldea Platanar, Panaluya;15.04083333;-89.59444444;1
+3/12/2021;11:00:00;No Forestal;Zacapa;Zacapa;Caserío la Linea;14.84186667;-90.18539444;2
+6/12/2021;11:30:00;Forestal;El Progreso;Guastatoya;Colonia  Linda Vista;14.84472222;-90.06305556;1.5
+7/12/2021;14:00:00;No Forestal;Baja Verapaz;San Miguel Chicaj;Aldea El Progreso, Cerro El Portezuelo;14.91638889;-90.08555556;4
+7/12/2021;12:30:00;Forestal;El Progreso;Guastatoya;Aldea Palo Amontonado;15.10694444;-90.35611111;4.23
+8/12/2021;16:00:00;No Forestal;Guatemala;Guatemala;Parque ecológico de Pinares del Norte zona 18 Distrito 3;14.6675;-90.42916667;0.1
+9/12/2021;20:40:00;Forestal;Solola;Panajachel;Montaña colindante Barrio Norte;14.75277778;-91.14833333;0.08
+11/12/2021;14:00:00;No Forestal;Guatemala;Villa Nueva;Ingreso a Residenciales las Flores;14.55277778;-90.59194444;1
+14/12/2021;06:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Pamesebal 1;15.02944444;-91.1675;5
+16/12/2021;13:00:00;Forestal;Solola;Santa Catarina Palopo;Cerro Chocruz;14.72722222;-91.13694444;1
+21/12/2021;13:00:00;No Forestal;Guatemala;Guatemala;Colonia La Loma zona 18;14.66111111;-90.43833333;0.01
+22/12/2021;15:00:00;Forestal;Quiche;Canilla;Aldea Sajcap;15.14444444;-90.85833333;9
+23/12/2021;16:30:00;No Forestal;Guatemala;Villa Nueva;Km.13 CA-9 en zona 12;14.55444444;-90.57555556;0.5
+25/12/2021;21:45:00;No Forestal;Guatemala;Chinautla;Sector 7 Villas del Milagro zona 0;14.82416667;-91.48861111;0.01
+25/12/2021;14:00:00;No Forestal;Guatemala;Mixco;Parque Deportivo y Recreativo Planes de Minerva;14.69972222;-90.51916667;0.02
+25/12/2021;14:40:00;Forestal;Quetzaltenango;Almolonga;Sector La Cumbre ;14.6825;-90.5475;0.5
+25/12/2021;13:30:00;Forestal;Quiche;Zacualpa;Aldea Trapichitos I;15.04722222;-90.99583333;4
+26/12/2021;11:30:00;Forestal;Baja Verapaz;Salama;Aldea Las Limas, CA-14 kilómetro 121.300;14.97222222;-90.24527778;0.5
+26/12/2021;13:30:00;Forestal;Guatemala;Petapa;Parque la Cerra;14.47444444;-90.56888889;1
+27/12/2021;15:00:00;No Forestal;Guatemala;Guatemala;Jardines del Norte zona 18;14.58777778;-90.61722222;0.01
+27/12/2021;09:00:00;Forestal;Guatemala;Mixco;Finca el carmen zona 9 ;14.68805556;-90.44555556;0.5
+27/12/2021;12:30:00;Forestal;Huehuetenango;Chiantla;Aldea Huitol Grande, Chancol;14.61916667;-91.17055556;15
+27/12/2021;12:30:00;Forestal;Solola;San Lucas Toliman;Faldas del Volcán Tolimán  ;15.48694444;-91.47555556;1
+28/12/2021;14:30:00;No Forestal;Guatemala;Chinautla;Sector 4 Villas del Milagro zona 0 de Chinautla;14.70111111;-90.52888889;0.5
+28/12/2021;16:00:00;No Forestal;Guatemala;Palencia;El Fiscal Colonia El Simarron;14.72055556;-90.38305556;0.2
+29/12/2021;14:00:00;Forestal;Huehuetenango;Huehuetenango;Ruinas Zaculeu zona 9;15.34222222;-91.48972222;1.5
+29/12/2021;18:00:00;Forestal;Quiche;San Antonio Ilotenango;Caserío Pacbaltem, Aldea Sac Xac;15.02833333;-91.25805556;3
+30/12/2021;14:30:00;No Forestal;Chimaltenango;El Tejar;Bosque Tzanjuyu ;14.80611111;-91.0025;0.2
+30/12/2021;06:00:00;Forestal;Chimaltenango;Santa Cruz Balanyá;Sector El Potrero;14.68138889;-90.91222222;1
+30/12/2021;13:00:00;No Forestal;El Progreso;San Agustin Acasaguastlan;Km.86 El Rancho;15.04472222;-91.89416667;0.5
+30/12/2021;14:00:00;Forestal;El Progreso;Sanarate;Colonia Los Cipreces;15.10055556;-89.61722222;1
+30/12/2021;17:30:00;No Forestal;Guatemala;Palencia;Brisas del Fiscal;14.62944444;-90.77944444;0.02
+30/12/2021;14:00:00;Forestal;Quetzaltenango;Quetzaltenango;Cerro Candelaria;14.92527778;-90.01166667;4.5
+30/12/2021;14:00:00;Forestal;San Marcos;Tajumulco;Volcan Tajumulco;13.79472222;-90.18944444;3
+30/12/2021;12:30:00;Forestal;Zacapa;Rio Hondo;Aldea El Chorro Panaluya;14.72055556;-92.64166667;68.47
+31/12/2021;18:00:00;No Forestal;Guatemala;San Pedro Ayampuc;Kilómetro 12.5;14.57944444;-90.60666667;4
+31/12/2021;12:30:00;No Forestal;Guatemala;Villa Nueva;Sector 3 Residenciales Jerusalén Cuidad Peronia;14.505;-89.62555556;0.08
+31/12/2021;14:10:00;No Forestal;Guatemala;Villa Nueva;26 calle Zona 4 Santa Isabel;14.51;-90.57777778;0.04
+31/12/2021;14:00:00;Forestal;Jalapa;Monjas;Caserío Los Izotes;14.71472222;-90.45361111;1
+31/12/2021;14:00:00;No Forestal;Jalapa;Monjas;Aldea La Campana;14.47388889;-89.86777778;1
+31/12/2021;14:08:00;Forestal;San Marcos;Pajapita;Cantón Pueblo Nuevo;14.72595;-92.04258333;0.87
+1/01/2022;15:20:00;Forestal;Chimaltenango;Comalapa;Cerro Cupilaf;14.58527778;-89.98805556;1
+1/01/2022;09:00:00;No Forestal;Chimaltenango;El Tejar;Colonia Los Pinos II;15.06111111;-91.15666667;1
+1/01/2022;12:00:00;Forestal;Chimaltenango;Tecpán Guatemala;Km.84 Ruta Interamericana;14.9025;-91.14388889;1.5
+1/01/2022;11:00:00;No Forestal;Guatemala;Villa Nueva;Terrazas II Ciudad Peronia;15.0225;-91.16305556;1
+1/01/2022;16:30:00;Forestal;Jalapa;Jalapa;Aldea Los Tablones;15.04777778;-90.87444444;1
+1/01/2022;19:00:00;No Forestal;Jalapa;Monjas;Colonia Palestina I;14.88194444;-90.9825;1
+1/01/2022;12:32:00;Forestal;Jalapa;Monjas;Agua Tibia;15.02305556;-91.16;1
+1/01/2022;15:55:00;Forestal;Quiche;Chichicastenango;Cantón Pocohil Primero;14.74722222;-90.97222222;1
+1/01/2022;09:30:00;No Forestal;Quiche;Santa Cruz Del Quiche;Colonia Buena Vista;ERROR: Server error: Entry not found in index;ERROR: Server error: Entry not found in index;0.5
+1/01/2022;14:30:00;No Forestal;Quiche;Santa Cruz Del Quiche;Ruinas de Gumarkaah;14.61666667;-90.79555556;1
+1/01/2022;12:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Lotificación María zona 2;ERROR: Server error: Entry not found in index;ERROR: Server error: Entry not found in index;0.5
+1/01/2022;10:00:00;Forestal;Quiche;Zacualpa;Aldea Trapichitos I;14.49906774;-89.85279761;4
+2/01/2022;12:00:00;No Forestal;Guatemala;Guatemala;Residenciales Soloma kilometro 14.5 al Atlantico ;15.32277778;-91.50611111;0.5
+2/01/2022;12:15:00;No Forestal;Guatemala;Villa Canales;Cañadas de Elgin, Zona 03, Boca del Monte;15.31333333;-91.49916667;1.05
+2/01/2022;14:10:00;No Forestal;Huehuetenango;Huehuetenango;Colonia La Pista, zaculeu zona 9;14.55365278;-90.52937222;0.4
+2/01/2022;10:00:00;No Forestal;Huehuetenango;Huehuetenango;El Rastro, El Cambote zona 11;14.68222222;-90.41194444;0.5
+4/01/2022;12:30:00;Forestal;Jalapa;Jalapa;Aldea Orchoj;14.5425;-89.99;10
+6/01/2022;20:00:00;No Forestal;Jalapa;Jalapa;Colonia Prados de Oriente;14.63388889;-89.97888889;5
+6/01/2022;13:14:00;Forestal;Quiche;Cunen;La Cumbre de Xewuinicabaj  ;15.31833333;-91.03305556;5
+7/01/2022;08:00:00;No Forestal;El Progreso;Guastatoya;Aldea El Subinal;14.85916667;-90.07305556;1.5
+7/01/2022;14:30:00;No Forestal;El Progreso;Sanarate;Aldea Trapichito;14.85583333;-90.14472222;0.5
+8/01/2022;17:30:00;No Forestal;Guatemala;Guatemala;Cabecera de la pista 20, del boulevard Liberación Zona 13;14.59722222;-90.52333333;0.02
+9/01/2022;11:30:00;Forestal;Quiche;Sacapulas;Caserío San Jorge, Sacapulas;15.03694444;-91.1775;0.5
+9/01/2022;13:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Chicorral;15.2775;-91.10944444;2
+10/01/2022;13:00:00;No Forestal;Guatemala;Villa Nueva;Km. 14 CA-9 al norte zona 6;14.54444444;-90.58083333;4
+10/01/2022;09:00:00;No Forestal;Huehuetenango;Huehuetenango;Instalaciones de Universidad Rural, Cambote zona 11;15.30722222;-91.49916667;1.5
+11/01/2022;13:00:00;Forestal;Guatemala;Villa Nueva;Km.14.5 CA-09-SUR Residencial Llano Alto;14.10333333;-90.51472222;3
+11/01/2022;14:50:00;Forestal;Guatemala;Villa Nueva;San Jorge Santa Isabel II;14.88208333;-90.96875;1
+11/01/2022;14:50:00;No Forestal;Santa Rosa;Taxisco; aldea El PanalFinca Santa Matilde;14.88194444;-90.9825;22.72
+12/01/2022;18:42:00;Forestal;Huehuetenango;Chiantla;Colonia Las Viudas, Cantón la Z;14.48166667;-90.88166667;1
+12/01/2022;15:00:00;Forestal;Sacatepequez;Alotenango;Volcan de Fuego;15.365;-91.44611111;2
+13/01/2022;18:20:00;No Forestal;Jalapa;Jalapa;Aldea Sansayo;14.59972222;-89.96861111;1.5
+13/01/2022;13:55:00;Forestal;Jutiapa;Jutiapa;Cerro La Bandera;14.30638889;-89.89388889;8
+14/01/2022;14:25:00;Forestal;El Progreso;Guastatoya;Cerro de La Virgen;14.82388889;-90.0975;42
+15/01/2022;15:00:00;Forestal;Jalapa;Jalapa;Aldea el Arenal;14.61305556;-90.0325;20
+15/01/2022;20:40:00;Forestal;Quiche;Zacualpa;Aldea Tunajá;15.02166667;-90.86472222;3
+16/01/2022;22:00:00;No Forestal;Guatemala;Amatitlan; Km 30.5 al pacifico;14.45944444;-90.64472222;1.43
+17/01/2022;15:25:00;Forestal;Totonicapan;Totonicapan;Paraje Chuantun, cantón Xantún;14.90194444;-91.37138889;1
+18/01/2022;11:55:00;Forestal;Guatemala;San Jose Pinula;Finca Las Anonas;14.63972222;-90.74111111;2
+18/01/2022;18:00:00;No Forestal;Guatemala;San Pedro Ayampuc;Km 16.5 ;14.51916667;-90.42277778;1
+18/01/2022;10:30:00;Forestal;Guatemala;Villa Nueva;Boulevard Reformadores zona 4 en la Rivera del Rio Platanitos;14.73194444;-90.44888889;7
+18/01/2022;14:44:00;Forestal;Sacatepequez;Sumpango;Zona 2 casco urbano sector el Potrerito;14.51222222;-90.58555556;1
+19/01/2022;14:50:00;Forestal;Huehuetenango;Chiantla;Cantón La Z;14.57055556;-90.68638889;0.5
+19/01/2022;20:20:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Xatinap Primero;15.00083333;-91.16944444;15
+19/01/2022;17:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Chicorral;15.36388889;-91.44444444;1
+19/01/2022;13:40:00;Forestal;Sacatepequez;Santa Lucia Milpas Altas;A un costado de parque ecológico finca municipal florencia ;15.03611111;-90.17694444;0.01
+20/01/2022;14:00:00;Forestal;Chimaltenango;Chimaltenango;Kilometro 57 libramiento Chimaltenango;14.90055556;-91.48472222;1
+20/01/2022;14:30:00;No Forestal;Huehuetenango;Huehuetenango;Aeródromo Las Lagunas zona 10;15.315;-91.50833333;0.5
+20/01/2022;15:30:00;Forestal;Totonicapan;San Andres Xecul;Paraje Patux, Casco urbano;ERROR: Server error: Entry not found in index;ERROR: Server error: Entry not found in index;5
+20/01/2022;20:30:00;Forestal;Totonicapan;Totonicapan;Cantón Poxlajuj;14.91166667;-91.37583333;4
+21/01/2022;07:50:00;No Forestal;El Progreso;Morazan;Km 120 CA-14 Aldea San Clemente, ;14.96611111;-90.17527778;2.5
+21/01/2022;11:00:00;No Forestal;Huehuetenango;Huehuetenango;Zona 9 ;15.0175;-91.16277778;0.5
+21/01/2022;11:30:00;No Forestal;Quiche;Santa Cruz Del Quiche;Cantón la comunidad, casco urbano;15.32361111;-91.49527778;5
+21/01/2022;11:30:00;No Forestal;Quiche;Santa Cruz Del Quiche;Colonia Los Celajes;15.0175;-91.15416667;1
+22/01/2022;14:00:00;No Forestal;Guatemala;Petapa;Colonia el Paraíso Zona 5 de Villa Hermosa;14.57361111;-90.94333333;3
+22/01/2022;14:30:00;No Forestal;Guatemala;Villa Nueva;43 calle y 11 avenida colonia Prados de Monte Maria zona 12 ;14.51611111;-90.565;1
+22/01/2022;16:30:00;Forestal;Quetzaltenango;Quetzaltenango;Cerro Candelaria;14.78916667;-91.51888889;0.5
+22/01/2022;10:00:00;Forestal;Quetzaltenango;Zunil;Aldea Chacap;14.23888889;-91.48777778;5
+23/01/2022;11:45:00;Forestal;Jutiapa;Atescatempa;Volcán Las Víboras;14.91194444;-91.36861111;24.5
+23/01/2022;20:00:00;Forestal;Totonicapan;Totonicapan;Tercera calle final, zona 2 Parque Infantil;14.21944444;-89.71027778;1
+24/01/2022;13:13:00;No Forestal;Baja Verapaz;Salama;Colonia Valle Del Sol ;15.08666667;-90.30416667;4
+24/01/2022;12:50:00;No Forestal;Baja Verapaz;Salama;Terrenos Cercanos a Colonia Valle Dorado Área peri urbana de Salama BV;15.08666667;-90.30416667;4
+25/01/2022;23:30:00;Forestal;Suchitepequez;Mazatenango;Ciudad Nueva;14.535;-91.48638889;1
+26/01/2022;17:45:00;Forestal;Quiche;Chichicastenango;Pocohil Primero;14.92666667;-91.1175;0.5
+27/01/2022;08:47:00;No Forestal;Guatemala;Guatemala;Columpio de Vista Hermosa zona 15;14.60666667;-90.50194444;0.02
+27/01/2022;12:30:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Xatinap 5ta;14.99583333;-91.13972222;10
+27/01/2022;16:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Pamesebal;15.04694444;-91.15583333;1
+28/01/2022;16:00:00;Forestal;Baja Verapaz;San Jeronimo;Aldea La Rinconada;15.31305556;-91.47611111;4
+28/01/2022;14:00:00;No Forestal;Huehuetenango;Huehuetenango;EORM Tipo Federacion zona 5 de Huehuetenango;15.26111111;-91.41805556;0.5
+28/01/2022;11:30:00;Forestal;Huehuetenango;Huehuetenango;Aldea Chiquiliabaj;14.55305556;-89.93583333;2
+28/01/2022;20:30:00;Forestal;Huehuetenango;Huehuetenango;Cambote zona 11 ;15.11722222;-89.50055556;0.5
+28/01/2022;16:00:00;Forestal;Jalapa;Jalapa;Aldea Mal Paso;15.3;-91.49555556;1
+28/01/2022;12:00:00;No Forestal;Quiche;Sacapulas;Caserío Cuesta del Águila;15.05138889;-90.21722222;1
+28/01/2022;15:15:00;Forestal;Zacapa;Rio Hondo;Aldea Jones;15.31472222;-91.18083333;5
+30/01/2022;12:00:00;No Forestal;Guatemala;Villa Nueva;Frente a fabrica Zamboro ruta Marianita zona 5 de Villa Nueva ;14.51472222;-90.10333333;2
+30/01/2022;11:00:00;No Forestal;Quiche;Santa Cruz Del Quiche;Aldea Chicorral;15.04083333;-91.17694444;0.5
+30/01/2022;12:00:00;No Forestal;Santa Rosa;Taxisco;Santa Matilde, aldea El Panal;14.88194444;-90.9825;5
+31/01/2022;16:00:00;Forestal;Huehuetenango;Huehuetenango;Aldea Zunul;15.04611111;-91.1225;0.5
+31/01/2022;19:19:00;Forestal;Jalapa;Jalapa;Aldea El Divisadero;15.00027778;-91.14861111;15
+31/01/2022;15:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Choacaman I;14.63722222;-90.02888889;4
+31/01/2022;09:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Xatinap 5to;15.27444444;-91.44888889;14
+31/01/2022;14:30:00;Forestal;Zacapa;Rio Hondo;Aldea Monte Verde;15.02555556;-88.70527778;22
+1/02/2022;15:00:00;Forestal;Baja Verapaz;Salama;Comunidad Quilila Finca Santa Rosa;15.3025;-91.19861111;9
+1/02/2022;16:00:00;Forestal;Huehuetenango;Aguacatan;Aldea Cuesta del Águila;15.22166667;-90.29388889;40
+2/02/2022;09:45:00;No Forestal;Guatemala;Guatemala;11 avenida Sur Final, 56-00, Colegio El Roble, zona 11 ;15.11916667;-88.53666667;3.9
+2/02/2022;10:00:00;Forestal;Guatemala;San Pedro Ayampuc;Km 14 Carretera a el Carrizal San Pedro Ayampuc.;14.58277778;-90.57361111;26
+2/02/2022;12:00:00;Forestal;Jutiapa;Asuncion Mita;San Juan Las Minas;14.99805556;-89.36555556;0.5
+2/02/2022;13:00:00;Forestal;Peten;San Andres;Los Pescaditos;14.72861111;-90.43166667;8
+2/02/2022;20:00:00;Forestal;Zacapa;Rio Hondo;Aldea Jones;14.3325;-89.72972222;10
+2/02/2022;18:30:00;Forestal;Zacapa;Zacapa;Aldea Los limones;17.36944444;-89.985;50
+3/02/2022;22:50:00;No Forestal;Huehuetenango;Huehuetenango;EORM Tipo Federación, Zona 5   ;15.31611111;-91.48305556;0.3
+4/02/2022;07:00:00;Forestal;Guatemala;Petapa;Parque Municipal Regional La Cerra;14.74722222;-91.17333333;6
+4/02/2022;19:29:00;No Forestal;Guatemala;Villa Canales;Terreno en Comunidad los Llanos;14.64055556;-90.01083333;6
+4/02/2022;14:30:00;No Forestal;Guatemala;Villa Nueva;Boulevard Reformadores a un costado de Intecap zona 4 ;14.50583333;-90.58833333;1
+4/02/2022;09:00:00;No Forestal;Jalapa;Jalapa;Aldea El Divisadero;15.35777778;-90.88777778;3
+4/02/2022;12:00:00;Forestal;Quiche;Uspantan;Aldea Sochojil;14.48055556;-90.53861111;65.5
+4/02/2022;09:00:00;Forestal;Solola;Solola;Aldea San Jorge La Laguna;14.36388889;-90.56583333;4.5
+5/02/2022;12:15:00;Forestal;Baja Verapaz;Salama;Aldea  Lagunillas ;14.95472222;-90.24805556;2
+6/02/2022;17:00:00;Forestal;Guatemala;Amatitlan;Cerro Patio Bolas,Aldea Pedregal Agua de La Mina;15.33694444;-91.47388889;20
+6/02/2022;17:00:00;Forestal;Huehuetenango;Huehuetenango;Terrero Alto zona 4;14.47055556;-90.65166667;1
+6/02/2022;14:00:00;No Forestal;Santa Rosa;Taxisco;La Arrocera, Aldea La Avellana;14.07222222;-90.48641389;20
+7/02/2022;15:25:00;No Forestal;Guatemala;San Pedro Ayampuc;Colonia Rio Azul;14.58027778;-89.94611111;2
+7/02/2022;17:52:00;Forestal;Jalapa;Jalapa;Aldea Salfate;14.33222222;-89.73916667;5
+7/02/2022;07:50:00;Forestal;Jutiapa;Asuncion Mita;Aldea San Juan Las Minas;14.72222222;-90.4425;9
+7/02/2022;14:20:00;Forestal;Solola;Santa Lucia Utatlan;Parque Ecológico Corazón del Bosque, Aldea el Novillero;14.78916667;-91.26472222;1.5
+8/02/2022;11:30:00;No Forestal;Guatemala;Guatemala;Km. 14 ruta al atlantico CA-9;15.31027778;-91.49444444;3
+8/02/2022;10:30:00;Forestal;Guatemala;Palencia;Km 23.5 Ruta al Atlantico;14.30082778;-89.87801944;3
+8/02/2022;18:50:00;No Forestal;Huehuetenango;Huehuetenango;Cambote Zona 11 ;14.67611111;-90.41555556;0.5
+8/02/2022;15:00:00;No Forestal;Jutiapa;Jutiapa;Volcán Culma;14.7225;-90.36166667;0.5
+9/02/2022;14:50:00;Forestal;Jalapa;Jalapa;Aldea Mal Paso;14.55416667;-89.93638889;1
+9/02/2022;18:00:00;Forestal;Jutiapa;Quesada;Aldea La Pava;14.27444444;-89.98055556;15
+10/02/2022;10:40:00;No Forestal;Guatemala;San Pedro Ayampuc;Los Llanos;14.73555556;-90.45138889;16
+10/02/2022;17:00:00;No Forestal;Guatemala;Villa Nueva;Colina Amanecer;15.09805556;-91.16472222;8
+10/02/2022;14:30:00;Forestal;Quiche;San Pedro Jocopilas;Aldea Xocopilá;14.88208333;-90.96875;1.5
+11/02/2022;20:00:00;Forestal;Chiquimula;San Jose La Arada;Km 189 Caserío Plan de Las Vigas Aldea El Rincón;15.03416667;-90.88222222;4
+11/02/2022;11:30:00;No Forestal;El Progreso;San Agustin Acasaguastlan;Aldea El Rancho;14.91527778;-90.00694444;1.5
+11/02/2022;13:50:00;No Forestal;Guatemala;Guatemala;7a. Avenida final y 28 calle  San Gaspar 2 zona 16 Guatemala;14.96844167;-90.88410556;2
+11/02/2022;11:50:00;No Forestal;Guatemala;San Pedro Ayampuc;Km. 17 sobre la ruta principal Villas de San Pedro Ayampuc ;14.70361111;-89.62583333;1
+11/02/2022;11:30:00;No Forestal;Guatemala;San Pedro Ayampuc;Montaña en colonia Lomas de San Pedro Ayampuc ;14.74583333;-90.44472222;45
+11/02/2022;16:30:00;No Forestal;Guatemala;San Pedro Ayampuc;Extremo de buses Villas de San Pedro Ayampuc;14.98527778;-90.75772222;3
+11/02/2022;09:00:00;No Forestal;Guatemala;Villa Nueva;Colina Amanecer ingreso por Valles de María zona 2;14.55166667;-90.58555556;6
+11/02/2022;13:20:00;Forestal;Quiche;Zacualpa;Aldea Trapichitos I;14.74583333;-90.44472222;0.5
+11/02/2022;17:00:00;No Forestal;San Marcos;Ayutla;A un costado de Aduana Tecun Uman ll Ayutla San Marcos;14.70555556;-92.12861111;0.45
+12/02/2022;19:40:00;No Forestal;El Progreso;Morazan;Kilómetro102, CA-14, Aldea Gallegos;14.91388889;-89.79416667;1.5
+12/02/2022;15:18:00;Forestal;Jutiapa;Atescatempa;Volcán Las Víboras;15.02194444;-91.04722222;13
+12/02/2022;11:25:00;Forestal;Quiche;Chiche;Aldea Loma Alta;14.90722222;-90.15666667;4
+12/02/2022;12:00:00;Forestal;Zacapa;Cabañas;Km 158 Ruta a San Diego Cabañas;14.19981944;-89.71345833;10
+13/02/2022;14:30:00;Forestal;Quiche;San Pedro Jocopilas;Aldea Los Cipresales;14.77361111;-91.14416667;2
+13/02/2022;10:30:00;No Forestal;Santa Rosa;Barberena;Finca Cerro Redondo;15.10055556;-91.16388889;2.4
+13/02/2022;12:00:00;Forestal;Solola;Concepcion;Caserío la Cumbre;14.37277778;-90.40555556;0.5
+14/02/2022;07:25:00;No Forestal;Guatemala;Guatemala;11 avenida Sur Final y 40 calle zona 11;14.58277778;-90.57222222;10
+14/02/2022;13:00:00;No Forestal;Quiche;Santa Cruz Del Quiche;Zona 5;15.02694444;-91.14222222;1
+15/02/2022;15:00:00;Forestal;Guatemala;Amatitlan;Km 31 Ruta al Pacifico;14.73444444;-90.40722222;5.7
+15/02/2022;12:00:00;No Forestal;Guatemala;Guatemala;Km 13 ruta al Atlántico;15.02222222;-91.16361111;0.05
+15/02/2022;08:15:00;Forestal;Guatemala;San Pedro Ayampuc;Entre Fincas Los Mixcales, El Tizate,San Carlos y La Estanzuela;14.66666667;-90.41888889;14
+15/02/2022;10:00:00;No Forestal;Jalapa;Jalapa;Barrio Llano Grande;14.46361111;-90.65333333;0.5
+15/02/2022;15:00:00;No Forestal;Quiche;Santa Cruz Del Quiche;Ruinas de Gumarkaaj;14.96583333;-91.36555556;1
+15/02/2022;16:00:00;Forestal;Solola;San Jose Chacaya;Finca El Molino;14.60833333;-89.97238889;1
+16/02/2022;09:05:00;Forestal;Chimaltenango;Santa Cruz Balanyá;El Potrero;14.82805556;-91.49861111;4.5
+16/02/2022;13:45:00;Forestal;Quetzaltenango;Quetzaltenango;Cerro Baúl;14.69388889;-90.90805556;0.5
+17/02/2022;15:45:00;No Forestal;Guatemala;Villa Nueva;Final Terranova, cuenca Villa Lobos;15.29277778;-91.40027778;6
+17/02/2022;11:45:00;Forestal;Huehuetenango;Huehuetenango;Aldea Pox;14.66908333;-90.06291667;11
+17/02/2022;15:00:00;Forestal;Jalapa;Jalapa;Caserío Tierra Blanca;15.92233333;-91.34825;5
+17/02/2022;08:00:00;Forestal;Quiche;Zacualpa;Aldea Trapichitos I;14.99972222;-90.80166667;2.5
+17/02/2022;08:00:00;Forestal;Sacatepequez;Sumpango;Colonia Valle Verde Kilometro 47.5;15.04777778;-90.87444444;5.5
+17/02/2022;16:00:00;No Forestal;Suchitepequez;San Jose La Maquina;Línea A 5 sector Sis;14.34527778;-91.56638889;8
+17/02/2022;13:00:00;Forestal;Totonicapan;Totonicapan;Paraje Pubiequeb, zona 1;14.89388889;-90.95055556;1
+18/02/2022;10:00:00;No Forestal;Baja Verapaz;Salama;Cerro de la Santa Cruz;14.51638889;-90.73861111;2
+18/02/2022;10:05:00;Forestal;Guatemala;Amatitlan;Naciones Unidas;15.09111111;-90.31888889;8
+18/02/2022;11:00:00;Forestal;Guatemala;Guatemala;11 avenida Sur Final y 40 calle zona 11;15.06583333;-91.11805556;5
+18/02/2022;07:00:00;Forestal;Guatemala;Guatemala;6a. Ave y 11 calle Kanajuyu I zona 16;14.94055556;-91.62972222;2
+18/02/2022;17:50:00;No Forestal;Guatemala;Villa Nueva;Parcelamiento de Villa Nueva a un costado del Parque Naciones Unidas;14.58287222;-90.57246111;2
+18/02/2022;12:20:00;Forestal;Huehuetenango;Huehuetenango;Aldea Chinaca;14.97111111;-91.10805556;1
+18/02/2022;08:16:00;No Forestal;Jalapa;Jalapa;Aldea El Divisadero;14.10416667;-91.63194444;0.5
+18/02/2022;15:00:00;Forestal;Jalapa;San Manuel Chaparron;Aldea El Pedernal;15.29833333;-91.41;100
+18/02/2022;09:08:00;Forestal;Quetzaltenango;Cajola;Cantón Xecol;14.4975;-90.61611111;5
+18/02/2022;19:05:00;Forestal;Quiche;Chichicastenango;Cantón Sepela;14.62444444;-90.47611111;0.5
+18/02/2022;12:10:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Xesic;14.64333333;-90.03638889;5
+18/02/2022;12:00:00;No Forestal;Sacatepequez;Antigua Guatemala;San Juan del Obispo;14.49305556;-90.60083333;1
+18/02/2022;15:30:00;No Forestal;Sacatepequez;Antigua Guatemala;San Pedro las Huertas;14.54730556;-89.80511111;1
+18/02/2022;09:20:00;Forestal;Suchitepequez;Mazatenango;Aldea Tahuexco;14.85166667;-90.12722222;0.25
+19/02/2022;20:09:00;Forestal;Guatemala;Palencia;Km 23 ruta al Atlántico ingreso a Palencia;13.90666667;-90.42583333;7
+19/02/2022;11:50:00;No Forestal;Guatemala;Palencia;Km 18 al 19 ruta al Atlántico entrada a Palencia. ;14.94388889;-90.20194444;4
+19/02/2022;11:00:00;Forestal;Guatemala;Petapa;Los Eucaliptos Km 11 ingreso a la VAS por Rivera del Río;14.49030556;-90.54247222;16
+19/02/2022;23:23:00;No Forestal;Santa Rosa;Guazacapan;Aldea Ojo de Agua Finca El Papaturro;14.72200833;-90.366375;2.32
+19/02/2022;21:17:00;No Forestal;Zacapa;Zacapa;Colonia Metropolis;14.70083333;-90.3925;1
+20/02/2022;10:00:00;No Forestal;El Progreso;El Jicaro;Finca el Tintero, Barrio Buenos Aires;14.1725;-90.13388889;1.5
+20/02/2022;17:30:00;Forestal;El Progreso;Sanarate;Barrio La Cachucha;14.97305556;-91.06472222;1
+20/02/2022;14:45:00;No Forestal;Escuintla;Masagua;kilómetro 66;14.91388889;-89.89861111;1.5
+20/02/2022;13:00:00;No Forestal;Escuintla;Palin;Residenciales Valle de las Flores;14.8665;-91.41013889;1.5
+20/02/2022;07:30:00;Forestal;Guatemala;San Jose Del Golfo;Colonia San Carlos;15.34638889;-91.38027778;40
+20/02/2022;11:05:00;Forestal;Huehuetenango;Aguacatan;Caserío Los Alisos, Aldea el Manzanillo;14.74222222;-90.40083333;5
+20/02/2022;13:30:00;Forestal;Quiche;Chiche;Aldea Tzalamabaj I;14.79472222;-90.19194444;0.5
+20/02/2022;23:00:00;No Forestal;Santa Rosa;Nueva Santa Rosa;Aldea Ojo de Agua;14.38833333;-90.72722222;232
+20/02/2022;16:30:00;Forestal;Totonicapan;Totonicapan;Aldea Vásquez;13.90686667;-90.42590556;0.25
+21/02/2022;09:30:00;No Forestal;Escuintla;Palin;Bosque El Chilar, kilómetro 43;15.32416667;-91.50194444;0.02
+21/02/2022;15:20:00;Forestal;Guatemala;Villa Canales;El Porvenir;15.04555556;-91.16166667;3
+21/02/2022;13:52:00;No Forestal;Huehuetenango;Huehuetenango;Calle a Campamentos Ahuehuetl, Zona 9;14.53616667;-90.50297222;0.5
+21/02/2022;10:30:00;No Forestal;Peten;San Andres;El Guanal No. 1;15.18222222;-90.91638889;135
+21/02/2022;15:44:00;Forestal;Quetzaltenango;San Carlos Sija;Finca Paso Hondo;14.38166667;-90.72;1.5
+21/02/2022;13:00:00;Forestal;Quiche;San Andres Sajcabaja;Cerro Sajmajil;14.98111111;-91.55111111;4
+21/02/2022;13:30:00;Forestal;Quiche;Santa Cruz Del Quiche;Camino a Pamesebal I, aldea Chorrecales;17.20160278;-89.88386667;10
+22/02/2022;17:00:00;Forestal;Guatemala;Mixco;3a. Avenida 1-98 Colonia Santa Rita I Zona 2;14.49994444;-89.45586111;6
+22/02/2022;18:30:00;No Forestal;Guatemala;Mixco;"O ave ""A"" y 29 calle ""B"" final Zona 10, Colonia la comunidad";14.62555556;-90.57111111;4
+22/02/2022;15:57:00;No Forestal;Guatemala;Mixco;6 ave. 31 calle final Jardines de la Comunidad zona 10;15.0225;-91.14611111;2
+22/02/2022;14:30:00;No Forestal;Guatemala;San Jose Pinula;Sector la Arena Carretera a Residenciales San José;14.27444444;-89.98055556;1
+22/02/2022;16:10:00;No Forestal;Guatemala;Villa Nueva;Ladera ubicada entre colonias La Esperanza y El Búcaro zona 12;14.98583333;-90.98361111;10
+22/02/2022;13:10:00;Forestal;Jutiapa;Jutiapa;Aldea Las Victorias;14.98583333;-90.98833333;75
+22/02/2022;14:30:00;Forestal;Jutiapa;Quesada;Aldea La Pava;14.99638889;-90.79555556;15
+22/02/2022;15:10:00;Forestal;Quetzaltenango;San Carlos Sija;Finca  Paso Hondo / Cruz de La Lacha ;14.62;-90.57388889;1.5
+22/02/2022;11:30:00;Forestal;Quiche;Joyabaj;Colonia Los Ángeles;14.54;-90.56388889;9
+22/02/2022;12:30:00;No Forestal;Quiche;Santa Cruz Del Quiche;Sector Zona 5;14.98083333;-91.5525;4
+23/02/2022;13:15:00;Forestal;Chiquimula;Chiquimula;Ingreso a comunidad de Shororagua (Frente a Condado Filadelfia);15.065;-91.15611111;3
+23/02/2022;16:30:00;No Forestal;Guatemala;Guatemala;Barranco de residenciales Pinares de Llano Largo km 16.5 zona 25;15.28694444;-91.46805556;5
+23/02/2022;14:30:00;Forestal;Guatemala;San Pedro Ayampuc;Cerro Lomas de San Pedro Ayampuc;14.73972222;-90.44583333;3
+23/02/2022;16:30:00;No Forestal;Guatemala;San Pedro Ayampuc;Finca las Victorias;14.97916667;-90.91527778;5
+23/02/2022;06:30:00;Forestal;Huehuetenango;Huehuetenango;Aldea Ojechejel;14.72444444;-90.43611111;12
+23/02/2022;13:10:00;Forestal;Quiche;Joyabaj;Aldea Tzalam;15.04138889;-91.23666667;3
+23/02/2022;11:30:00;Forestal;Quiche;San Antonio Ilotenango;Entronque a San Antonio Ilotenango;15.00375;-89.65427778;1.6
+23/02/2022;14:30:00;Forestal;Quiche;Santa Cruz Del Quiche;Bárbara Ford;14.92083333;-91.35888889;10
+23/02/2022;15:40:00;No Forestal;Suchitepequez;Cuyotenango;Km. 165 CA2;14.53916667;-91.53916667;12.4
+23/02/2022;15:45:00;Forestal;Totonicapan;Totonicapan;Cantón Cojxac;14.96844167;-90.88410556;1
+23/02/2022;16:30:00;Forestal;Zacapa;Estanzuela;costado del Centro comercial MEGAPLAZA;14.77785;-89.56901944;2
+24/02/2022;19:35:00;No Forestal;El Progreso;Morazan;Caserío El Mirador;14.72527778;-90.40055556;2.5
+24/02/2022;12:00:00;No Forestal;Guatemala;Palencia;Colonia San Carlos;14.72527778;-90.52222222;4
+24/02/2022;15:55:00;Forestal;Guatemala;San Pedro Sacatepequez;Aldea ChillaniFinca  El Bosque;15.00555556;-90.15861111;268
+24/02/2022;12:35:00;Forestal;Quiche;Joyabaj;Río Cocol;14.99444444;-90.79138889;4
+24/02/2022;15:30:00;Forestal;Quiche;San Antonio Ilotenango;Caserío Pocomon, Aldea Pachilip;14.98861111;-91.2475;52
+24/02/2022;11:15:00;No Forestal;Santa Rosa;Taxisco;Km. 107 ruta CA-2El Mirador;14.39275;-91.19308333;0.8
+25/02/2022;17:30:00;No Forestal;Escuintla;Palin;Kilometro 33;14.63027778;-89.96;2
+25/02/2022;22:38:00;Forestal;Guatemala;Mixco;Finca el Aguacate Zona 9;15.03916667;-91.31777778;6
+25/02/2022;13:00:00;No Forestal;Guatemala;Villa Nueva;Barranco de Residenciales Llano alto del 1 al 6, zona 6;15.04972222;-91.21944444;15
+25/02/2022;13:15:00;Forestal;Huehuetenango;Malacatancito;Aldea Cacum;ERROR: Server error: Entry not found in index;ERROR: Server error: Entry not found in index;0.5
+25/02/2022;15:00:00;Forestal;Jalapa;Jalapa;Aldea Río Frío;14.85185;-90.62638889;1
+25/02/2022;15:20:00;Forestal;Quiche;San Antonio Ilotenango;Zona 6;14.44055556;-90.65472222;1
+25/02/2022;17:42:00;Forestal;Totonicapan;Santa Maria Chiquimula;Paraje Xequisel, Cantón Centro;14.43888889;-90.65416667;1.1
+25/02/2022;12:30:00;Forestal;Zacapa;Rio Hondo;Churupaco, Subcuenca Pasabien;15.25;-91.50027778;1
+26/02/2022;15:20:00;No Forestal;Baja Verapaz;San Miguel Chicaj;El Portezuelo, Kilometro 154  RN  5 ;14.9125;-91.12888889;15
+26/02/2022;01:11:00;Forestal;Guatemala;Guatemala;Diagonal 45,42-15 Lomas de San Isidro Zona 16;14.57027778;-90.59611111;7
+26/02/2022;12:51:00;Forestal;Guatemala;Mixco;Finca el Carmen aldea el Aguacate Z.9 De Mixco;15.10916667;-90.36044444;8
+26/02/2022;14:55:00;Forestal;Guatemala;Mixco;Interior Finca el Carmen zona 9;15.17111111;-90.89694444;2
+26/02/2022;16:30:00;Forestal;Guatemala;Villa Canales;Finca el Bosque;15.25888889;-91.48805556;4
+26/02/2022;13:47:00;No Forestal;Guatemala;Villa Nueva;Ingreso a Terrazas I, Ciudad Peronia, Zona 8;14.59222222;-90.59888889;1
+26/02/2022;12:10:00;Forestal;Huehuetenango;Chiantla;Cerro Grande;15.36166667;-91.4525;2
+26/02/2022;16:00:00;Forestal;Huehuetenango;Malacatancito;Cacum;14.59694444;-90.46;3
+26/02/2022;15:20:00;Forestal;Quiche;Chichicastenango;Cantón Chilima;13.47666667;-90.52611111;0.5
+26/02/2022;17:53:00;No Forestal;Quiche;San Andres Sajcabaja;Lotificación El Plan;14.5875;-90.61527778;1
+26/02/2022;20:30:00;No Forestal;Quiche;San Pedro Jocopilas;Aldea Paichal;15.11506111;-89.07972222;0.5
+26/02/2022;10:30:00;Forestal;Zacapa;Rio Hondo;Subcuenca, Aldea Jones;15.11333333;-91.15361111;45
+27/02/2022;13:15:00;No Forestal;Guatemala;Mixco;Calle 81 y 13 avenida Sacoj Grande zona 6;14.9975;-90.75833333;1
+27/02/2022;15:30:00;No Forestal;Guatemala;Villa Canales;Faldas del Volcan PacayaEl Muñeco, Los Llanos,  El Amate;14.70944444;-90.53527778;5.5
+27/02/2022;16:00:00;No Forestal;Peten;San Andres;Sabana 26 Sacluc Parque Nacional Laguna del Tigre;14.97;-91.10555556;51
+27/02/2022;21:05:00;No Forestal;Peten;San Andres;Sabana No. 11 Sacluc PNLT;14.99194444;-91.15777778;41.14
+27/02/2022;23:20:00;No Forestal;Quiche;Chichicastenango;Sector 9, Cantón Chuluma I;14.57055556;-90.68638889;0.5
+27/02/2022;08:20:00;Forestal;Quiche;Joyabaj;Aldea Pasaguay;15.04805556;-91.19333333;32.2
+27/02/2022;13:25:00;No Forestal;Quiche;Santa Cruz Del Quiche;Aldea Xatinap I;15.045;-91.15361111;1
+27/02/2022;15:10:00;No Forestal;Quiche;Santa Cruz Del Quiche;Aldea Pachitac;17.19813333;-90.1454;0.5
+27/02/2022;18:47:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Pamesebal I;17.25796944;-90.175925;0.5
+28/02/2022;11:15:00;Forestal;Huehuetenango;Chiantla;Aldea Alfalfa;15.04861111;-91.15777778;1.5
+28/02/2022;14:00:00;Forestal;Huehuetenango;Huehuetenango;Cerrito del Maíz zona 4 ;15.3375;-91.47805556;0.5
+28/02/2022;18:45:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Xatinap I;15.08;-91.46805556;2
+28/02/2022;19:00:00;Forestal;Quiche;Santa Cruz Del Quiche;kilometro 156 Ruta a Santa Cruz del Quiché;14.98277778;-91.10972222;0.5
+28/02/2022;10:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Pachitac;15.34277778;-91.40944444;25
+28/02/2022;13:00:00;Forestal;San Marcos;Sibinal;Caserío La Barranca ;15.17777778;-92.02111111;4
+28/02/2022;13:40:00;Forestal;Totonicapan;Momostenango;Balnearios de Agua Caliente;15.04611111;-91.19027778;3.94
+1/03/2022;15:00:00;Forestal;Escuintla;Escuintla;Kilometro 80 Ruta a Taxisco Finca California ;14.14583333;-90.68416667;120
+1/03/2022;16:40:00;No Forestal;Guatemala;Mixco;7a. Avenida 24-03 zona 8 Valle Dorado, ciudad San Cristóbal;14.5725;-90.58305556;3
+2/03/2022;20:00:00;No Forestal;Guatemala;Villa Nueva;ruta Marianita hacia el Puente la Prosperidad, 23 calle zona 6;13.36513889;-91.45233333;3
+2/03/2022;20:00:00;No Forestal;Huehuetenango;Chiantla;Cerro Grande;14.52888889;-90.56563889;6
+2/03/2022;21:40:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Pachitac, ruta San Antonio Ilotenango;15.04722222;-91.08055556;8
+3/03/2022;14:00:00;No Forestal;Escuintla;Palin;Kilometro 34 CA-2;14.77944444;-91.21111111;1.5
+3/03/2022;15:00:00;No Forestal;Guatemala;Guatemala;Mirador de La Cruz, sector 2 Mz. 3 zona 18 ;14.43777778;-90.655;2
+3/03/2022;16:00:00;Forestal;Huehuetenango;Aguacatan;Caserío Nueva Esperancita, Aldea Exchimal;14.05972222;-90.46805556;3
+3/03/2022;16:10:00;No Forestal;Santa Rosa;Taxisco;El Miradero;14.68;-90.42555556;1
+3/03/2022;18:50:00;Forestal;Solola;Solola;Caserío ChuaxicFinca Agua Tibia;15.28305556;-91.30527778;1.5
+4/03/2022;11:00:00;Forestal;Baja Verapaz;Salama;Kilo 127 CA 14, Aldea Las Limas ;14.83166667;-91.47555556;2
+4/03/2022;13:10:00;Forestal;Chimaltenango;Chimaltenango;Los Aposentos;15.31305556;-91.55444444;1
+4/03/2022;10:00:00;Forestal;Huehuetenango;Huehuetenango;El Mamut, Aldea Chivacabé;14.68954444;-91.30154167;5
+4/03/2022;12:00:00;Forestal;Jalapa;San Pedro Pinula;Finca La Quebradona;15.0625;-91.18416667;2
+4/03/2022;13:58:00;Forestal;Quetzaltenango;Quetzaltenango;Cantón Chichiguitan;14.53511944;-89.95178611;1
+4/03/2022;17:30:00;Forestal;Quiche;San Antonio Ilotenango;Zona 4 de San Antonio Ilotenango;14.635;-90.81722222;27
+4/03/2022;12:30:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Pamesebal I;15.04388889;-91.22166667;49.5
+4/03/2022;17:00:00;Forestal;Solola;San Juan La Laguna;Sector Pan Ukuy;14.71194444;-89.89083333;3
+4/03/2022;09:00:00;Forestal;Zacapa;Zacapa;Cerro Miramundo;14.99694444;-90.24333333;5
+5/03/2022;10:30:00;Forestal;Chimaltenango;San Martin Jilotepeque;San Jacinto;15.01;-91.09222222;1
+5/03/2022;13:00:00;No Forestal;Guatemala;San Pedro Ayampuc;Extremo de buses Villas de San Pedro Ayampuc;14.74805556;-90.44444444;1
+5/03/2022;13:15:00;No Forestal;Guatemala;San Pedro Ayampuc;Altos de Santa Maria;15.13097222;-91.23744444;1
+5/03/2022;13:39:00;No Forestal;Guatemala;Villa Canales;Callejon El Pito, Ingreso a Aldea Los Llano;15.02561111;-91.24775;3
+5/03/2022;14:30:00;Forestal;Guatemala;Villa Nueva;Km 14.4 ruta al norte;14.54497222;-90.58111111;4
+5/03/2022;18:00:00;No Forestal;Huehuetenango;Chiantla;Sector Las Manzanas;15.23344444;-91.2745;3
+5/03/2022;06:30:00;Forestal;Quiche;Chichicastenango;Kilómetro 153 ruta a Santa Cruz del Quiché;15.08694444;-89.52527778;1
+5/03/2022;14:57:00;Forestal;Quiche;San Antonio Ilotenango;Aldea Sac Xap;15.00575;-91.15655556;75
+5/03/2022;15:35:00;Forestal;Quiche;San Pedro Jocopilas;Santa María;14.75561111;-90.45075;7.2
+5/03/2022;23:32:00;Forestal;Quiche;San Pedro Jocopilas;Aldea Xoljuyup I;15.39138889;-91.49027778;20
+5/03/2022;12:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Cucabaj I;14.37619444;-90.56105556;15
+5/03/2022;13:42:00;No Forestal;Quiche;Santa Cruz Del Quiche;Aldea Xatinap I;14.72833333;-90.79166667;18
+5/03/2022;22:30:00;Forestal;Totonicapan;Santa Lucia La Reforma;Colonia La Esperanza, detrás del CAIMI;15.13027778;-91.12583333;2.5
+5/03/2022;09:00:00;Forestal;Zacapa;Rio Hondo;Aldea Mal Paso;14.98138889;-91.10944444;10
+6/03/2022;12:20:00;Forestal;Baja Verapaz;Rabinal;Caserio Chipacapox;15.02163889;-91.17375;2
+6/03/2022;20:30:00;No Forestal;Escuintla;Santa Lucia Cotzumalguapa;Colonia Adelina;14.36577778;-90.57216667;0.6
+6/03/2022;14:00:00;Forestal;Guatemala;Villa Canales;Los PocitosEl Muñeco, Los Llanos, El Amate;14.91388889;-91.37027778;290
+6/03/2022;16:28:00;No Forestal;Jalapa;Jalapa;Colonia La Gracia;14.61722222;-89.96972222;1
+6/03/2022;21:39:00;No Forestal;Peten;San Andres;Ruta Comunidad el Reloj;15.02138889;-91.17361111;7
+6/03/2022;13:00:00;Forestal;Quetzaltenango;Cajola;Cantón Xecol;14.94076111;-91.62959444;2
+6/03/2022;14:34:00;Forestal;Quiche;Chichicastenango;Río Xajil sector 2;15.07083333;-90.455;1
+6/03/2022;13:30:00;Forestal;Quiche;Pachalum;Caserío el Aguacate;14.91781389;-91.09971667;150
+6/03/2022;15:40:00;Forestal;Quiche;San Pedro Jocopilas;Kilómetro 177, ruta a Sacapulas El Carmen;14.57194444;-90.76416667;1
+6/03/2022;17:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Ruinas de Gumarkaaj;15.18;-91.22416667;5
+6/03/2022;21:30:00;Forestal;Quiche;Santa Cruz Del Quiche; Sector Norte de Ruinas de Gumarkaaj;14.3425;-91.01416667;5
+6/03/2022;13:00:00;Forestal;Sacatepequez;Pastores;Finca El Portal;14.90944444;-90.65055556;1
+6/03/2022;21:30:00;Forestal;Totonicapan;Totonicapan;Paraje 3 Coronas, del Cantón Poxlajuj;17.80237778;-90.43291389;2
+7/03/2022;16:04:00;Forestal;Baja Verapaz;San Jeronimo;Aldea El Cacao;14.19805556;-89.72727778;4
+7/03/2022;16:30:00;No Forestal;Jutiapa;Atescatempa;Volcán Las Víboras;15.05444444;-91.02222222;25
+7/03/2022;18:00:00;Forestal;Quiche;Chinique;Aldea las Lomas;15.04527778;-90.26888889;0.5
+7/03/2022;21:30:00;Forestal;Quiche;Joyabaj;Panchum;15.14888889;-91.20361111;4
+7/03/2022;11:00:00;No Forestal;Quiche;Joyabaj;Sector El Calvario;15.05277778;-91.15638889;0.5
+7/03/2022;13:00:00;Forestal;Quiche;Sacapulas;Chicoxoy;15.29277778;-91.11725;1500
+7/03/2022;13:00:00;Forestal;Quiche;San Pedro Jocopilas;Sector las Primaveras;15.12341389;-89.4514;5
+7/03/2022;13:30:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Chajbal;15.22194444;-89.69777778;0.2
+7/03/2022;13:40:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Pamesebal III;15.02047222;-90.80441667;65
+7/03/2022;15:00:00;Forestal;Zacapa;Gualan;Aldea Las Verapaces;14.99491667;-90.79980556;200
+7/03/2022;18:30:00;Forestal;Zacapa;Rio Hondo;Tabacal El Paral;15.06027778;-91.20805556;8
+8/03/2022;11:00:00;Forestal;Baja Verapaz;Salama;Parque municipal Cerro de la Cruz;15.23027778;-91.13972222;3
+8/03/2022;09:30:00;Forestal;Baja Verapaz;San Jeronimo;Caserío Las Astras;15.32305556;-91.01833333;4
+8/03/2022;08:30:00;Forestal;Baja Verapaz;San Miguel Chicaj;Aldea Rincón San Pedro;15.065;-90.22611111;4
+8/03/2022;17:50:00;Forestal;El Progreso;Morazan;Caserío Los Leones;15.00555556;-90.15861111;2.5
+8/03/2022;12:30:00;No Forestal;Guatemala;Chinautla;Km 12.5  Las Maravillas El Chan 1;15.08880556;-90.32177778;12
+8/03/2022;14:00:00;No Forestal;Peten;San Andres;La Naranjita Laguna Larga;15.00638889;-90.94722222;40
+8/03/2022;18:22:00;Forestal;Quiche;Chinique;Aldea las Choaxan;14.70707778;-90.45675556;2
+8/03/2022;15:30:00;Forestal;Quiche;Cunen;Aldea San José;15.07694444;-90.39833333;5
+8/03/2022;10:30:00;Forestal;Quiche;Sacapulas;Paraje Choabaj;17.78361111;-90.43555556;100
+9/03/2022;18:56:00;Forestal;Quiche;Nebaj;Suchum;15.06361111;-91.20311111;3
+9/03/2022;21:15:00;Forestal;Quiche;Santa Cruz Del Quiche;Pamesebal III;14.61222222;-90.64972222;45
+9/03/2022;11:11:00;Forestal;Quiche;Santa Cruz Del Quiche;Puente Pachitac;14.935;-92.38972222;2
+9/03/2022;16:02:00;No Forestal;Quiche;Santa Cruz Del Quiche;Choacaman I;15.08;-91.46805556;4
+9/03/2022;18:00:00;Forestal;Sacatepequez;San Lucas Sacatepequez;Ruta interamericana km 27.9;15.04666667;-91.19194444;1
+9/03/2022;22:40:00;Forestal;Totonicapan;San Bartolo;Sector del Balneario del Centro del Municipio;15.04666667;-91.1225;3.94
+9/03/2022;12:30:00;Forestal;Totonicapan;Totonicapan;Cantón Juchanep;15.42833333;-91.16111111;2
+10/03/2022;19:22:00;Forestal;Guatemala;Fraijanes;Ruta a Rancho Verde Lo de Diéguez;14.96555556;-89.28944444;3
+10/03/2022;16:30:00;Forestal;Guatemala;Mixco;Aldea lo de Diéguez Rancho Verde;15.25698056;-89.17552222;2
+10/03/2022;13:00:00;No Forestal;Guatemala;San Juan Sacatepequez;Colonia Villas de Carranza, Lo de carranza;14.9775;-90.82194444;4
+10/03/2022;19:29:00;No Forestal;Huehuetenango;Huehuetenango;Sector la Joya, zona 4 ;14.37711434;-90.42919132;0.5
+10/03/2022;16:37:00;Forestal;Huehuetenango;Huehuetenango;Aldea Tojocas;14.69694444;-90.55333333;2
+10/03/2022;13:15:00;No Forestal;Quiche;Joyabaj;Estancia Pachilip;15.32222222;-91.47583333;1
+10/03/2022;18:00:00;No Forestal;Santa Rosa;Barberena;Finca Cerro Redondo;14.94305556;-91.31083333;1
+10/03/2022;07:53:00;Forestal;Totonicapan;Santa Maria Chiquimula;Paraje León, aldea Chuacorral II;15.28833333;-91.48555556;18
+10/03/2022;09:00:00;Forestal;Totonicapan;Totonicapan;Cerro Tzalawuaj, final de la zona 4;14.49481389;-90.43246111;0.25
+10/03/2022;16:20:00;Forestal;Zacapa;Gualan;Aldea Juan de Paz, Aldea el Fermín;14.91491667;-91.33213889;100
+10/03/2022;15:00:00;Forestal;Zacapa;La Union;Colonia Vista Hermosa Tait;14.49472222;-90.43222222;1
+11/03/2022;16:30:00;No Forestal;Guatemala;Palencia;El Fiscal;14.61844444;-90.04030556;3
+11/03/2022;12:00:00;Forestal;Jalapa;Jalapa;Aldea Pino Gordo;14.68916667;-90.03738889;15
+11/03/2022;12:30:00;Forestal;Jalapa;Jalapa;Aldea El Chagüite;15.01461111;-90.92222222;15
+11/03/2022;10:00:00;Forestal;Peten;La Libertad;Pista La ¨L¨ Z.I. del Parque Nacional Sierra del Lacandón;14.94488889;-91.30911111;25.5
+11/03/2022;16:20:00;Forestal;Quiche;Chiche;Paraje Los González;14.73225556;-90.40474722;100
+11/03/2022;14:40:00;Forestal;Quiche;Zacualpa;Aldea Potrero Viejo II;14.94527778;-90.98472222;5
+11/03/2022;15:08:00;No Forestal;Santa Rosa;Taxisco;Aldea la AvellaLa Arrocera;13.94388889;-90.42666667;8
+11/03/2022;12:40:00;Forestal;Totonicapan;Santa Maria Chiquimula;Paraje Quieq´aja, Aldea Chuacorral II ;17.005;-90.97694444;5
+12/03/2022;15:20:00;Forestal;El Progreso;San Agustin Acasaguastlan;Caserío El Matochal;16.78066667;-90.13298333;1.5
+12/03/2022;13:15:00;Forestal;Guatemala;Petapa;Parte trasera de la Escuela de Sector No. 8 Villa Hermosa;15.16216667;-90.18211111;10
+12/03/2022;19:02:00;Forestal;Guatemala;Petapa;Parque Municipal Regional La Cerra;15.355;-91.46138889;6
+12/03/2022;22:29:00;No Forestal;Guatemala;Villa Nueva;Interior Hacienda Las Flores Zona 2, Kilometro15 ruta al Pacífico;14.54444167;-90.68301389;9
+12/03/2022;14:50:00;No Forestal;Huehuetenango;Chiantla;Cementerio General;14.64027778;-90.02194444;1
+12/03/2022;13:30:00;Forestal;Jalapa;Jalapa;Aldea El Arenal;14.53166667;-90.54930556;0.5
+12/03/2022;14:00:00;Forestal;Peten;La Libertad;Barrio El Recuerdo;14.48213611;-90.51988056;2
+12/03/2022;17:10:00;Forestal;Quiche;San Pedro Jocopilas;Sector Zaculeu, Aldea la Primavera;14.97073889;-90.078625;1
+13/03/2022;13:02:00;Forestal;Chimaltenango;San Martin Jilotepeque;Aldea San Bernardo kilómetro 60 aproximadamente ruta a San Martín Jilotepeque;14.68944444;-91.30138889;1
+13/03/2022;13:10:00;Forestal;El Progreso;San Agustin Acasaguastlan;Caserío El Morro;15.11529444;-89.64376111;2.5
+13/03/2022;15:44:00;No Forestal;Huehuetenango;Huehuetenango;Colonia La Joya, zona 4;15.01472222;-90.91916667;1
+13/03/2022;13:30:00;Forestal;Quiche;Zacualpa;Aldea Chixocol;ERROR: Server error: Entry not found in index;ERROR: Server error: Entry not found in index;14.7
+13/03/2022;13:00:00;No Forestal;Sacatepequez;San Antonio Aguas Calientes;La Petatera;14.54055556;-90.79288889;2
+13/03/2022;13:05:00;No Forestal;Solola;San Pablo La Laguna;San Pablo y San Marcos La Laguna;15.32527778;-91.47388889;1
+13/03/2022;13:45:00;Forestal;Zacapa;Rio Hondo;La catarata, Santa Rosalia Marmol;14.99670278;-90.06885;98
+14/03/2022;14:20:00;No Forestal;Guatemala;San Pedro Ayampuc;Colonia Brisas de San Pedro;15.04194444;-89.59527778;1
+14/03/2022;15:30:00;No Forestal;Guatemala;Villa Nueva;Manzana 10 Residenciales Terranova zona 6;14.73886111;-90.45433333;2
+14/03/2022;13:00:00;Forestal;Jalapa;San Pedro Pinula;Aldea Güisiltepque;15.00886111;-90.92972222;1
+14/03/2022;15:45:00;Forestal;Quiche;Zacualpa;Puente Camacutz;14.6875;-89.91447222;8
+14/03/2022;16:40:00;Forestal;Zacapa;Teculutan;Santa Rosalia MarmolFincas de Valores Mercantiles e Inversiónes pasabien;14.53072222;-90.57063889;15
+15/03/2022;11:30:00;Forestal;Guatemala;San Juan Sacatepequez;Aldea El Sombrerito Javier Alvizures;15.30755556;-91.49022222;12
+15/03/2022;14:00:00;No Forestal;Guatemala;Santa Catarina Pinula;El Bejucal, Sector 4, Aldea El Carmen;15.32805556;-91.4325;2
+15/03/2022;21:20:00;No Forestal;Guatemala;Villa Nueva;Manzana 10 Residenciales Terranova zona 6;14.53080556;-90.57072222;2
+15/03/2022;10:25:00;No Forestal;Huehuetenango;Huehuetenango;Colonia Las Luces, Cambote zona 11;14.560425;-90.51205278;0.4
+15/03/2022;12:10:00;Forestal;Huehuetenango;Huehuetenango;Cantón Florencia, Aldea Chinacá;15.22694444;-91.24305556;8
+15/03/2022;13:32:00;Forestal;Jutiapa;Atescatempa;Volcán Las Viboras;14.50823611;-90.34149167;19
+15/03/2022;17:15:00;Forestal;Quiche;San Andres Sajcabaja;Aldea Chicoxop;15.18861111;-90.93333333;1.2
+15/03/2022;11:45:00;Forestal;Quiche;San Pedro Jocopilas;Caserío Las Flores;14.20433333;-89.78338889;7.3
+16/03/2022;13:00:00;Forestal;El Progreso;San Agustin Acasaguastlan;Caserío Poxte;14.521;-90.65664444;3.5
+16/03/2022;12:20:00;No Forestal;Guatemala;San Juan Sacatepequez;Aldea Loma Alta, caserio Joya del Izote;15.00858333;-91.17825;2
+16/03/2022;12:50:00;No Forestal;Guatemala;Villa Nueva;Cerro Parte InteriorMalena;15.01138889;-91.15583333;15
+16/03/2022;19:40:00;No Forestal;Huehuetenango;Huehuetenango;El rastro, Cambote zona 11;14.69558333;-90.67798611;0.5
+16/03/2022;11:20:00;No Forestal;Huehuetenango;Huehuetenango;Terrero Alto, zona 4;14.95353333;-90.7375;1
+16/03/2022;17:50:00;No Forestal;Jalapa;Jalapa;Aldea Divisadero;14.63361111;-90.0225;1
+16/03/2022;18:51:00;Forestal;Jalapa;Jalapa;Cerró Colimbi;15.01130556;-89.83883333;8
+16/03/2022;13:08:00;No Forestal;Quiche;Joyabaj;Rastro Municipal;14.65627778;-89.97986111;0.5
+16/03/2022;17:13:00;Forestal;Quiche;Patzite;Salida Principal a Santa Cruz del Quiché, Patzité, Quiché;14.9675;-91.205;0.5
+16/03/2022;16:30:00;Forestal;Quiche;Santa Cruz Del Quiche;Cantón Xatinap II;14.7333;-91.22973889;20
+16/03/2022;21:00:00;No Forestal;Quiche;Santa Cruz Del Quiche;Cantón Xatinap I,;15.31563056;-91.49896111;34
+16/03/2022;12:25:00;Forestal;Solola;Santa Cruz La Laguna;Parte media entre Tzununa y Jaibal;15.33951667;-91.47691389;5.5
+16/03/2022;12:30:00;No Forestal;Zacapa;Usumatlan;Aldea Los Vados y Aldea El Chico;14.99388889;-90.79555556;2
+17/03/2022;15:40:00;Forestal;Baja Verapaz;San Miguel Chicaj;Aldea San Gabriel;14.39361111;-89.93777778;5
+17/03/2022;20:00:00;No Forestal;Guatemala;Villa Nueva;1 Calle El Frutal zona 5 de Villa Nueva, y antigua Avenida Petapa;15.07331667;-91.30975556;6
+17/03/2022;16:00:00;No Forestal;Huehuetenango;Huehuetenango;Colonia la Joya, zona 4;14.76457778;-91.21919167;2
+17/03/2022;13:10:00;Forestal;Jutiapa;Jutiapa;Caserío Tierra Blanca;14.90715278;-91.36498056;15
+17/03/2022;07:30:00;Forestal;Jutiapa;Santa Catarina Mita;Volcán Suchitan;15.04213333;-89.59536667;25
+17/03/2022;13:30:00;Forestal;Quiche;Chichicastenango;Cantón Chontala;15.01291667;-91.09119444;9
+17/03/2022;17:30:00;Forestal;Quiche;Sacapulas;Caserío Chitinimit;15.11286111;-90.41722222;24
+17/03/2022;21:50:00;Forestal;Quiche;Santa Cruz Del Quiche;Cucabaj 3ro;15.32527778;-91.47638889;12
+17/03/2022;14:20:00;Forestal;Solola;Solola;Chuiquel Sector 1;14.90611111;-91.08277778;3.5
+17/03/2022;18:15:00;Forestal;Totonicapan;Santa Maria Chiquimula;Aldea Xecajá;15.307;-91.09658333;2
+17/03/2022;18:30:00;Forestal;Totonicapan;Totonicapan;Final de la zona 3;14.314;-89.86919444;1
+17/03/2022;12:15:00;Forestal;Zacapa;Rio Hondo;Caserío Los Chorros, Aldea Panaluya;14.52588056;-90.56080833;4.95
+18/03/2022;10:00:00;Forestal;Chiquimula;Chiquimula;La Cumbre;14.77785;-89.56901944;4
+18/03/2022;11:10:00;Forestal;El Progreso;San Agustin Acasaguastlan;Caserío Poxte;15.08138889;-91.18055556;2.5
+18/03/2022;13:00:00;No Forestal;Huehuetenango;Huehuetenango;Aldea Zunul;15.26830556;-91.45086111;1
+18/03/2022;13:30:00;Forestal;Huehuetenango;Malacatancito;Aldea Piache;15.23466667;-91.53880556;20
+18/03/2022;14:00:00;Forestal;Jutiapa;Jutiapa;Caserío San Antonio;14.91944444;-91.07416667;16
+18/03/2022;17:00:00;Forestal;Quiche;Canilla;Aldea La Galera;15.00694444;-91.12472222;4
+18/03/2022;12:45:00;Forestal;Quiche;Chichicastenango;Cantón Chontala;14.30986111;-89.87088889;4.5
+18/03/2022;16:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Pamesebal II;14.95353333;-90.02893056;1
+18/03/2022;14:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Puente Canché;15.1215;-90.85519444;6
+18/03/2022;15:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Chajbal;15.06916667;-91.15166667;2
+18/03/2022;16:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Los Chorrecales zona 2;15.04;-91.1575;8
+19/03/2022;15:30:00;Forestal;El Progreso;Guastatoya;Cerro de la Virgen;15.11611111;-90.85361111;1.5
+19/03/2022;16:30:00;No Forestal;Guatemala;Guatemala;Canto las pilas, Canalitos Zona 24.  Ciudad Capital;15.15791667;-91.49380556;3
+19/03/2022;15:15:00;No Forestal;Guatemala;Palencia;13 calle y 15 avenida San Jose las Rosas setor 2 zona 6;14.71194444;-89.92805556;4
+19/03/2022;15:50:00;No Forestal;Guatemala;San Raymundo;Parte Inferior de Cementerio;14.83155556;-90.09;1
+19/03/2022;12:30:00;No Forestal;Guatemala;San Raymundo;Cerro de comunidad Forest Hill de San Raymundo ;14.54555556;-90.605;5
+19/03/2022;13:00:00;No Forestal;Guatemala;Villa Nueva;Lomas de San Jose 1 y el Mirador de San Jose, zona 2 de Villa Nueva ;15.34;-90.03944444;5
+19/03/2022;16:00:00;No Forestal;Huehuetenango;Huehuetenango;Aeródromo, zona 10;14.61291667;-90.44863611;1
+19/03/2022;15:00:00;Forestal;Huehuetenango;Malacatancito;Aldea Panilla;14.66444444;-90.58861111;20
+19/03/2022;15:30:00;Forestal;Jalapa;San Pedro Pinula; Güisiltepeque Liquidamba;14.76555556;-90.60027778;1
+19/03/2022;13:20:00;Forestal;Quiche;Canilla;Aldea La Galera;14.73583611;-90.58005556;65
+19/03/2022;12:00:00;Forestal;Quiche;Cunen;Aldea Xejutut, Barrio San Juan;15.31861111;-91.5025;4
+19/03/2022;15:50:00;Forestal;Quiche;Pachalum;San Isidro, Las Veguitas de Mercedes;14.92305556;-90.67722222;20
+20/03/2022;16:30:00;Forestal;Chiquimula;San Juan Ermita; Zona límite entre los municipios de San Juan Ermita y Chiquimula;14.82527778;-91.49666667;3
+20/03/2022;01:15:00;Forestal;El Progreso;Sanarate;Km 50 Ca-09 Norte Aldea Sinaca,;15.355;-91.46138889;1
+20/03/2022;23:32:00;No Forestal;Guatemala;Villa Nueva;Cerro a un costado de carretera que conduce de Barcenas a comunidad El Tablon de Villa Nueva ;14.54666667;-90.64444444;11
+20/03/2022;15:30:00;No Forestal;Huehuetenango;Chiantla;Cementerio General ;15.18808889;-89.36371389;1
+20/03/2022;14:27:00;No Forestal;Huehuetenango;Huehuetenango;Calle a campamentos Ahuehuetl zona 9;15.32252778;-91.50172222;0.5
+20/03/2022;19:17:00;No Forestal;Quetzaltenango;Quetzaltenango;Cerro el Baúl;15.04061111;-91.17047222;1
+20/03/2022;21:45:00;Forestal;Quiche;Cunen;Aldea Chujitut;14.99777778;-90.90333333;3
+20/03/2022;12:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Pamesebal (atrás del cementerio);15.34027778;-91.03888889;125
+20/03/2022;20:00:00;Forestal;Quiche;Zacualpa;Aldea Potrero Viejo;14.80525278;-90.24525278;65
+20/03/2022;12:20:00;Forestal;Totonicapan;Santa Lucia La Reforma;Entrada a Santa Lucía;14.748275;-89.49551667;4
+20/03/2022;10:00:00;Forestal;Zacapa;Gualan;Aldea la Bolsa;15.12895278;-91.23134722;150
+21/03/2022;12:07:00;Forestal;Guatemala;Amatitlan;Cerro Agua de la Mina;14.73722222;-90.72111111;32
+21/03/2022;12:57:00;Forestal;Guatemala;San Juan Sacatepequez;Aldea San Antonio Las TrojesLos Quequescos;15.29030556;-91.46361111;20
+21/03/2022;12:30:00;No Forestal;Guatemala;Villa Nueva;10a. Calle final condominio Santa Catalina;14.53555556;-90.56833333;10
+21/03/2022;15:30:00;Forestal;Huehuetenango;Huehuetenango;Aldea San Lorenzo;14.82361111;-91.49305556;2
+21/03/2022;15:00:00;Forestal;Jalapa;Jalapa;Los Cebollines;14.65138889;-89.95888889;0.5
+21/03/2022;15:00:00;Forestal;Quetzaltenango;Quetzaltenango;Faldas del Cerro Baúl;14.93694444;-91.11416667;5
+21/03/2022;11:00:00;Forestal;Quiche;Chichicastenango;Cerro Pascual Abaj, Cantón Chilima;14.47352222;-90.65300833;1
+21/03/2022;11:00:00;Forestal;Quiche;Cunen;Sector El Chorro, Aldea Chujutut;15.34294444;-91.0435;10
+22/03/2022;07:00:00;Forestal;Guatemala;Mixco;Interior Finca el Carmen zona 9;15.29277778;-91.11722222;22
+22/03/2022;13:00:00;Forestal;Jalapa;Jalapa;Finca Santa Elena;15.04861111;-91.41944444;25
+22/03/2022;18:10:00;Forestal;Quiche;Sacapulas;Chicoxoy;14.54638889;-90.75805556;750
+22/03/2022;16:45:00;Forestal;Quiche;Zacualpa;Aldea Arriquin;14.585;-90.61527778;20
+22/03/2022;12:40:00;No Forestal;Sacatepequez;Antigua Guatemala;Retana KM 75.3 RN-14;14.93572222;-91.36905556;1
+22/03/2022;11:27:00;Forestal;Totonicapan;Momostenango;Chonimatux;14.90388889;-91.36777778;4
+22/03/2022;07:15:00;Forestal;Totonicapan;San Bartolo;Paraje Tinaco;15.00666667;-90.8975;100
+22/03/2022;11:00:00;Forestal;Totonicapan;Totonicapan;paraje Tzan abaj, cantón Chotacaj;14.69386111;-89.99905556;3
+22/03/2022;18:30:00;Forestal;Totonicapan;Totonicapan;Parajes Pacoc, la colina y xesiguan del cantón Xantún;15.08777778;-91.44277778;3.5
+23/03/2022;15:00:00;Forestal;Baja Verapaz;Salama;Aldea Vainillas ;14.80525278;-90.27858611;15
+23/03/2022;18:00:00;Forestal;Chiquimula;San Jose La Arada;Bosque Ecológico, Cerro Huexqué;14.68505556;-89.80672222;70
+23/03/2022;12:50:00;Forestal;El Progreso;Sanarate;Km. 40 CA-09 Norte Aldea Sinaca;14.63547222;-90.47622222;25
+23/03/2022;11:00:00;No Forestal;Guatemala;Amatitlan;Km 24 Ruta al Pacifico,;15.39027778;-91.49333333;3
+23/03/2022;15:00:00;No Forestal;Guatemala;Guatemala;Interior de Mariscal Zabala zona 17;14.52930556;-90.56177778;2
+23/03/2022;09:00:00;Forestal;Guatemala;Guatemala;Km 13.5 Ruta al Atlántico, Colonia Virgen de La Montaña;14.7625;-90.62972222;12
+23/03/2022;15:00:00;No Forestal;Guatemala;Villa Nueva;Orillas del Puente La Prosperidad;15.43671111;-91.81914167;7
+23/03/2022;09:00:00;Forestal;Huehuetenango;Chiantla;Sector las Manzanas;15.34638889;-91.3975;2
+23/03/2022;14:34:00;Forestal;Huehuetenango;Huehuetenango;Los de Chávez;15.05027778;-90.81861111;4.5
+23/03/2022;15:10:00;Forestal;Huehuetenango;Ixtahuacan;Cantón Chichis, Aldea la Cumbre;14.7017;-89.61827778;0.5
+23/03/2022;14:30:00;Forestal;Jalapa;San Pedro Pinula;Aldea Zapote;15.34055556;-91.04333333;1
+23/03/2022;07:00:00;No Forestal;Peten;Sayaxche;Rancho Alegre;14.65649444;-90.45817778;135
+23/03/2022;19:00:00;Forestal;Quiche;Cunen;Sector El Chorro, Aldea Chojox;14.94516667;-90.26472222;10
+23/03/2022;10:00:00;Forestal;Quiche;Zacualpa;Aldea Tunaja I;16.60027778;-90.20327778;7
+24/03/2022;12:30:00;Forestal;Huehuetenango;Huehuetenango;Los de Chávez;15.04822222;-90.84258333;5
+24/03/2022;11:05:00;Forestal;Jalapa;Mataquescuintla;Agroforestal La Colina;14.52611;-90.18722;1
+24/03/2022;20:00:00;Forestal;Jutiapa;Santa Catarina Mita;Cerro Ixtepeque;15.04805556;-90.8425;20
+24/03/2022;13:00:00;Forestal;Quiche;Zacualpa;Aldea Tunaja II;15.34861111;-91.39805556;150
+24/03/2022;09:30:00;No Forestal;Sacatepequez;Antigua Guatemala;Aldea el Hato;14.42402778;-89.68244444;1
+24/03/2022;19:00:00;Forestal;Zacapa;Rio Hondo;El Cedral Jones;15.04213333;-89.59536667;26
+25/03/2022;17:00:00;Forestal;Quiche;Zacualpa;Aldea Tunaja II;15.00222222;-91.31972222;50
+25/03/2022;20:00:00;No Forestal;Sacatepequez;San Antonio Aguas Calientes;Aldea San Antonio Zamora;14.78475556;-91.2192;1
+25/03/2022;12:05:00;Forestal;Solola;Santa Clara La Laguna;Kilometro 136.5 RD_SOL ;15.04944444;-90.84722222;2
+25/03/2022;12:40:00;Forestal;Totonicapan;Santa Maria Chiquimula;Aldea Chuisactol;14.5425;-90.78972222;0.75
+26/03/2022;13:20:00;Forestal;Jalapa;Jalapa;Aldea El Maestrillo;14.96027778;-90.96694444;8
+26/03/2022;12:40:00;Forestal;Quetzaltenango;Almolonga;Sector El Paraíso;14.81055556;-91.49527778;1
+26/03/2022;12:45:00;Forestal;Quiche;Chiche;San Francisco;14.93472222;-91.1125;617
+26/03/2022;16:00:00;Forestal;Quiche;Chichicastenango;Cantón Pachoj, Sector Emanuel;14.60361111;-90.01222222;0.5
+26/03/2022;15:50:00;Forestal;San Marcos;Tacana;Aldea Tuicoche;15.04213333;-89.59536667;13
+26/03/2022;15:15:00;Forestal;Zacapa;Rio Hondo;Sunzapote;15.39805556;-92.12291667;130
+27/03/2022;13:30:00;Forestal;Baja Verapaz;Salama;Aldea San IgnacioRincon Grande;15.32277778;-91.51416667;8
+27/03/2022;15:10:00;Forestal;Huehuetenango;Huehuetenango;Aldea Chivacabé;15.05277778;-90.34166667;15
+27/03/2022;16:00:00;Forestal;Jalapa;San Pedro Pinula;caserío Platanarcito;14.68166667;-89.86972222;1
+27/03/2022;19:40:00;No Forestal;Sacatepequez;Antigua Guatemala;La Guardiania Aldea El Hato;14.56805556;-90.65833333;1.5
+28/03/2022;12:30:00;Forestal;Huehuetenango;Huehuetenango;Aldea Llano Grande;15.04213333;-89.59536667;1
+28/03/2022;20:45:00;Forestal;Jalapa;Jalapa;Cerro Alcoba;14.68861111;-90.70527778;5
+28/03/2022;12:00:00;Forestal;Sacatepequez;Santo Domingo Xenacoj;Casco Urbano Santo Domingo Xenacoj ;15.29305556;-91.43194444;1
+28/03/2022;10:00:00;Forestal;Zacapa;Gualan;Aldea El Lobo;14.63972222;-89.96972222;100
+28/03/2022;14:30:00;Forestal;Zacapa;Rio Hondo;Aldea La Espinilla;15.186825;-89.30323056;540
+28/03/2022;15:00:00;Forestal;Zacapa;Rio Hondo;Nueva sunzapote;15.07412222;-89.65606111;145
+29/03/2022;18:30:00;Forestal;Chiquimula;Concepcion Las Minas;Aldea Ciracil;14.54838889;-90.73011111;20
+29/03/2022;19:00:00;No Forestal;Guatemala;Guatemala;Sector 2 y 3 las Conchas Zona 25;14.73045278;-90.39990278;4
+29/03/2022;12:30:00;No Forestal;Guatemala;Mixco;Puente El Caminero, Sector 2 de san José Las Rosas;14.74222222;-91.22777778;2
+29/03/2022;18:00:00;No Forestal;Guatemala;San Jose Del Golfo;Lado norteEstanzuela;14.91864722;-91.36716667;8
+29/03/2022;08:00:00;Forestal;Guatemala;San Pedro Ayampuc;Colonia Vista de San Luis;15.05343611;-91.31168889;10
+29/03/2022;13:00:00;Forestal;Huehuetenango;Chiantla;Aldea Buenos Aires;14.66916667;-90.58277778;2
+29/03/2022;16:30:00;Forestal;Jalapa;Jalapa;Cerro Alcoba;14.6425;-89.97111111;5
+29/03/2022;15:30:00;Forestal;Jalapa;San Manuel Chaparron;Periferia Cabecera municipal;14.64273056;-90.41411111;1
+29/03/2022;09:00:00;No Forestal;Peten;San Andres;Sector de la Picazón del PNLT;15.34444444;-91.45027778;35
+29/03/2022;12:40:00;No Forestal;Sacatepequez;Antigua Guatemala;Aldea El Calvario;14.51666667;-89.45;1
+29/03/2022;10:00:00;No Forestal;Solola;Solola;Playa publica Finca Jaibal,Aldea San Jorge la Laguna;14.52388889;-89.76083333;1
+29/03/2022;13:54:00;Forestal;Totonicapan;Santa Maria Chiquimula;Paraje Xolcata, Aldea Racaná;14.74461111;-90.4565;17
+29/03/2022;08:00:00;Forestal;Totonicapan;Totonicapan;Cantón Xantún;17.19888889;-90.14527778;0.5
+30/03/2022;13:17:00;Forestal;Alta Verapaz;Lanquin;Aldea Semil;14.81055556;-91.49527778;1.4
+30/03/2022;17:00:00;No Forestal;Guatemala;Guatemala;A un costado del lote 2 Colonia Virgen de la Montaña Km.13.5 ruta al atlántico interior de zona 25;14.62916667;-91.12083333;14
+30/03/2022;18:10:00;Forestal;Huehuetenango;Malacatancito;Aldea Chocal;14.674975;-90.40863889;5
+30/03/2022;19:15:00;Forestal;Peten;La Libertad;Sagrado Corazón Finca 10;15.26305556;-91.15111111;0.09
+30/03/2022;11:55:00;Forestal;Quiche;Cunen;Aldea Los Trigales;15.24958333;-91.50805556;3
+30/03/2022;15:30:00;Forestal;Quiche;Sacapulas;Caserío Chujay;14.04509722;-91.30308611;3
+30/03/2022;14:00:00;Forestal;Quiche;San Andres Sajcabaja;Comunidad las Casas;15.36194444;-91.03138889;50
+30/03/2022;14:20:00;Forestal;Solola;San Lucas Toliman;Cerro Iquitiú;15.54491917;-89.94114889;1
+30/03/2022;15:30:00;Forestal;Totonicapan;Santa Maria Chiquimula;Parajes pa´carrillo y Chui´sac soch, aldea Chuisactol ;15.15555556;-90.97055556;5
+30/03/2022;20:00:00;Forestal;Totonicapan;Santa Maria Chiquimula;Paraje Xelqueta, Aldea Racana;17.10617778;-90.72204722;25
+31/03/2022;23:18:00;Forestal;Huehuetenango;Malacatancito;Aldea Salpatzan;14.43369444;-89.88677778;10
+31/03/2022;20:00:00;Forestal;Huehuetenango;San Rafael La Independencia;Sticultaj;15.08777778;-91.15333333;20
+31/03/2022;11:30:00;Forestal;Jalapa;Jalapa;Aldea Pino Gordo;14.625;-90.03138889;20
+31/03/2022;10:30:00;Forestal;Jutiapa;El Progreso;Volcan Tahual, aldea Encino Gacho;14.93927778;-91.31177778;40
+31/03/2022;18:40:00;Forestal;Peten;San Andres;El Reloj;15.25055556;-91.50497222;3
+31/03/2022;21:00:00;Forestal;Quiche;Nebaj;Aldea Parramos Grande;15.47361111;-91.27055556;10
+31/03/2022;16:00:00;Forestal;Quiche;Nebaj;Parramos Chiquito;14.86283333;-89.68319444;42
+31/03/2022;13:27:00;Forestal;Quiche;San Pedro Jocopilas;Sector San Pedro;15.12055556;-89.36694444;2
+31/03/2022;10:40:00;Forestal;Quiche;Zacualpa;Aldea Camacutz;15.47527778;-91.27083333;15
+31/03/2022;13:08:00;Forestal;Totonicapan;Santa Maria Chiquimula;Aldea chuacorral 2;15.68302778;-91.54905556;8
+31/03/2022;12:50:00;Forestal;Zacapa;Huite;Aldea San Miguel;14.99666667;-90.9325;600
+31/03/2022;07:20:00;No Forestal;Zacapa;Rio Hondo;Aldea La palma;17.78361111;-90.43555556;1
+1/04/2022;11:30:00;Forestal;Guatemala;San Jose Del Golfo;Ruta principal ingreso a San José del Golfo y faldas de cerroEstanzuela ;14.74352778;-90.38658889;15
+1/04/2022;12:00:00;Forestal;Huehuetenango;Aguacatan;Aldea Tuixcox;15.255;-90.74805556;5
+1/04/2022;12:08:00;No Forestal;Huehuetenango;Huehuetenango;zona 1;15.36444444;-91.02972222;1
+1/04/2022;14:30:00;Forestal;Huehuetenango;San Miguel Acatan;Canton El Calvario ;14.30616667;-90.05433333;20
+1/04/2022;16:37:00;Forestal;Jutiapa;Jutiapa;Aldea Piedras Blancas, Cerro La Bandera;15.04213333;-89.59536667;1
+1/04/2022;17:00:00;Forestal;Jutiapa;Quesada;Aldea Salitrillo y Brea;15.32111111;-91.47277778;90
+1/04/2022;14:00:00;Forestal;Quetzaltenango;Quetzaltenango;Faldas de Cerro El Baul;15.317875;-91.35404444;2
+1/04/2022;14:30:00;Forestal;Quiche;Chichicastenango;Chontala;14.82416667;-91.50444444;50
+1/04/2022;21:00:00;Forestal;Quiche;Cunen;La Peña;14.31972222;-89.89555556;3
+1/04/2022;16:00:00;Forestal;Quiche;Uspantan;Chitac;14.93555556;-91.07805556;1466
+1/04/2022;18:30:00;Forestal;Zacapa;Teculutan;Sector Quebrada Santo DomingoMunicipal;15.70916667;-91.59444444;300
+2/04/2022;11:00:00;Forestal;Huehuetenango;Huehuetenango;Aldea la Cumbre;15.04213333;-89.59536667;1.5
+2/04/2022;09:20:00;No Forestal;Huehuetenango;Huehuetenango;Sector Hojarascas de Río;14.93555556;-91.07805556;3
+2/04/2022;12:00:00;No Forestal;Peten;San Andres;El Guanal No. 2;15.04194444;-89.59536667;135
+2/04/2022;15:00:00;Forestal;Quiche;Cunen;Aldea Sansiguan;15.30972222;-91.50361111;40
+2/04/2022;17:25:00;Forestal;Quiche;Joyabaj;Aldea Tunaja;15.186825;-89.30323056;2.5
+2/04/2022;19:30:00;Forestal;Quiche;San Pedro Jocopilas;Xoljuyup;15.16694444;-91.10888889;60
+2/04/2022;11:50:00;Forestal;Zacapa;Gualan;Aldea El Lobo;15.03097222;-90.82908333;100
+2/04/2022;09:00:00;Forestal;Zacapa;Rio Hondo;LA MONTAÑITA, TABACAL;15.33;-90.94138889;65
+2/04/2022;11:00:00;Forestal;Zacapa;Rio Hondo;Jones;17.19111111;-89.9172;50
+3/04/2022;11:00:00;Forestal;Baja Verapaz;Salama;Aldea Pichec;15.08;-90.52666667;15
+3/04/2022;11:50:00;Forestal;Guatemala;Guatemala;Sector El Cementerio, Zona 7;14.68444444;-89.99805556;3
+3/04/2022;13:24:00;Forestal;Guatemala;Mixco;Labor de Castilla, zona 9;14.65272222;-90.01825;10
+3/04/2022;14:00:00;Forestal;Jalapa;Jalapa;Volcán Jumay ;15.59305556;-90.61194444;30
+3/04/2022;14:20:00;Forestal;Jalapa;Jalapa;Aldea El Guaje;15.09861111;-91.17777778;10
+3/04/2022;15:51:00;No Forestal;Jalapa;Jalapa;Cerro de Alcoba;14.58722222;-90.62916667;1
+3/04/2022;13:30:00;No Forestal;Peten;San Andres;La Navidad sector noreste del PNLT;14.8075;-91.53888889;50.28
+3/04/2022;19:20:00;Forestal;Quetzaltenango;Quetzaltenango;Cerro Candelaria ;14.72866944;-91.13813611;1
+3/04/2022;11:20:00;Forestal;Quiche;Joyabaj;San Isidro La Comunidad;14.63722222;-89.96666667;0.4
+3/04/2022;15:00:00;Forestal;Quiche;San Pedro Jocopilas;Sector Pachiquik;15.30194444;-91.45019444;80
+3/04/2022;16:00:00;Forestal;Sacatepequez;San Lucas Sacatepequez;Chocorral;14.93166667;-90.81555556;2
+3/04/2022;12:32:00;Forestal;Solola;Santa Catarina Palopo;Cerro Chocruz;17.61041667;-90.58225;6.5
+4/04/2022;13:05:00;No Forestal;Baja Verapaz;Salama;Los Hornos, Parque Municipal Los Cerritos;15.04213333;-89.59536667;0.5
+4/04/2022;14:30:00;Forestal;Baja Verapaz;Salama;Aldea Chuacusito;14.253;-90.40436111;22
+4/04/2022;13:00:00;Forestal;Baja Verapaz;San Jeronimo;Aldea El Cacao, kilómetro 137-RD-17;14.76169167;-91.14928889;45
+4/04/2022;14:30:00;No Forestal;Guatemala;Guatemala;Km. 15 Colonia San Pascual III zona 25;14.75819444;-90.37938889;4
+4/04/2022;16:30:00;No Forestal;Guatemala;Mixco;Km. 17.5 ruta a San Juan Sacatepéquez;14.98111111;-89.82583333;4
+4/04/2022;15:40:00;No Forestal;Guatemala;Mixco;32 Av 1 Calle zona 6, Colonia Villa Victoria ;15.08194444;-90.31027778;3
+4/04/2022;14:05:00;No Forestal;Guatemala;Mixco;Granja 121 San Jorge Yumar zona 6;14.65991111;-90.6037;3
+4/04/2022;14:30:00;Forestal;Guatemala;San Jose Del Golfo;Finca El Espinal ;15.13305556;-89.53305556;15
+4/04/2022;14:50:00;Forestal;Guatemala;San Pedro Ayampuc;CerroEl Tizate;15.35972222;-91.44805556;33
+4/04/2022;13:45:00;Forestal;Huehuetenango;Chiantla;Cantón Calvario;15.15138889;-91.13333333;0.5
+4/04/2022;14:30:00;Forestal;Peten;La Libertad;Palestina Finca 137;15.04277778;-90.25166667;7.1
+4/04/2022;15:00:00;Forestal;Quiche;Chichicastenango;Cantón Chijtinimit;15.00916667;-91.09638889;10
+4/04/2022;12:00:00;Forestal;Quiche;Chinique;Sector El Chorro;14.68459722;-90.40882778;20
+4/04/2022;15:00:00;Forestal;Quiche;San Bartolome Jocotenango;Aldea Quiejche;15.04944444;-91.02111111;31.2
+4/04/2022;14:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Tanque de Agua, Chicabracan II;14.65297222;-90.60391667;4
+4/04/2022;15:40:00;Forestal;Solola;Solola;Caserio Montemercedes;14.94555556;-91.12805556;5
+4/04/2022;16:15:00;Forestal;Zacapa;Rio Hondo;Portezuelo, aldea Morán;14.99222222;-90.31138889;22
+4/04/2022;01:30:00;Forestal;Zacapa;Rio Hondo;Chaguite Jones, camino al imposible ;14.66672222;-90.59425;1
+4/04/2022;11:00:00;No Forestal;Zacapa;Usumatlan;Aldea El Jute;16.749525;-90.66946389;2
+5/04/2022;15:20:00;Forestal;Guatemala;Chinautla;Las Vegas;14.74694444;-90.52027778;25
+5/04/2022;13:00:00;No Forestal;Guatemala;Chinautla;Tierra Nueva II;14.92238889;-91.38852778;8
+5/04/2022;12:30:00;No Forestal;Guatemala;Mixco;Colonia Valle Dorado 9a. Ave. y Boulevard Sur zona 8;14.67805556;-90.5225;1
+5/04/2022;18:00:00;No Forestal;Huehuetenango;Cuilco;Aldea tuya Cuilco;14.57083333;-90.58388889;30
+5/04/2022;19:00:00;Forestal;Huehuetenango;Huehuetenango;Aldea Chimusinique;15.41194444;-91.96305556;3
+5/04/2022;11:00:00;Forestal;Jutiapa;Jutiapa;El Izotal;15.305;-91.51805556;1
+5/04/2022;12:00:00;Forestal;Peten;San Andres;Periferia de Laguna Larga #1;ERROR: Server error: Entry not found in index;ERROR: Server error: Entry not found in index;15
+5/04/2022;17:00:00;Forestal;Quiche;Chiche;Aldea Laguna Seca II;14.96611111;-91.01611111;2
+5/04/2022;11:35:00;Forestal;Totonicapan;Totonicapan;Paraje Chuisacop, cantón Poxlajuj;17.80055556;-90.41194444;6
+6/04/2022;11:24:00;Forestal;El Progreso;Guastatoya;Aldea San Rafael;14.84659167;-90.20114722;2.5
+6/04/2022;17:00:00;Forestal;El Progreso;Sanarate;Caserío El Amatillo;14.71700556;-90.44728056;25
+6/04/2022;14:05:00;Forestal;El Progreso;Sansare;La Trementina  (Poza Verde);15.38833333;-91.12916667;2.5
+6/04/2022;19:10:00;Forestal;Guatemala;Guatemala;Ingreso km.15 colonia el Gran Cañón zona 25 Guatemala  Finca La Argentina ;14.69416667;-90.41583333;8
+6/04/2022;09:00:00;Forestal;Guatemala;San Jose Del Golfo;Calle Principal Sector La Virgen;14.42813889;-89.90586111;2
+6/04/2022;12:45:00;Forestal;Guatemala;San Jose Del Golfo;Finca El Espinal ;14.92388889;-91.38791389;30
+6/04/2022;13:00:00;No Forestal;Guatemala;San Pedro Ayampuc;Comunidad Labor Vieja, Kilometro 13;15.32638889;-91.46702778;6
+6/04/2022;18:15:00;Forestal;Huehuetenango;Cuilco;Aldea Posonicapa Chiquito;14.55583333;-90.75777778;30
+6/04/2022;10:00:00;No Forestal;Huehuetenango;Huehuetenango;Aldea Los Tejeros, zona 3;14.84161111;-89.98583333;0.5
+6/04/2022;15:00:00;Forestal;Jutiapa;Asuncion Mita;Finca Mongoy;15.03956667;-91.34588889;50
+6/04/2022;12:30:00;Forestal;Jutiapa;Jutiapa;Aldea Encino Gacho;14.75805556;-90.37916667;35
+6/04/2022;13:45:00;Forestal;Quiche;Cunen;Aldea El Trigal;14.93677778;-91.31727778;5
+6/04/2022;10:20:00;Forestal;Quiche;Nebaj;Batz'pe', Bi'xaj;14.71700556;-90.44728056;3
+6/04/2022;08:20:00;Forestal;Quiche;Nebaj;Batz'pe', Bi'xaj;15.316095;-92.01093667;3
+6/04/2022;08:30:00;Forestal;Sacatepequez;Antigua Guatemala;Finca Retana;14.86283333;-89.68319444;0.5
+6/04/2022;10:00:00;Forestal;Totonicapan;Santa Maria Chiquimula;Aldea Chuiaj;14.71086667;-90.11249167;3
+6/04/2022;13:00:00;Forestal;Totonicapan;Totonicapan;Paraje Chuicaja, Cantón Poxlajuj;14.23058333;-89.71725;1.5
+6/04/2022;14:00:00;Forestal;Totonicapan;Totonicapan;Paraje Chi'cruz'tzic, Choamazan zona 1;15.36194444;-91.03138889;4
+6/04/2022;14:00:00;Forestal;Zacapa;Zacapa;Aldea Los Achiotes;15.38833333;-91.12916667;300
+7/04/2022;15:35:00;No Forestal;Guatemala;San Jose Del Golfo;Ladera parte inferior con dirección a la Municipalidad;14.974475;-91.28356389;5
+7/04/2022;16:40:00;Forestal;Solola;Solola;Aldea Chaquij;14.83317222;-91.20661111;2
+7/04/2022;20:00:00;Forestal;Totonicapan;Momostenango;Paraje Pasañab, Barrio Patzite ;14.76;-90.37027778;10
+7/04/2022;17:45:00;Forestal;Totonicapan;Santa Maria Chiquimula;Aldea Casa Blanca;14.97444444;-91.28361111;15
+7/04/2022;12:20:00;Forestal;Zacapa;Zacapa;Barrio La Bolsa;14.97408333;-89.53522222;0.5
+8/04/2022;12:50:00;Forestal;Guatemala;Mixco;aldea el Aguacate;14.59833333;-90.6175;12
+8/04/2022;14:40:00;Forestal;Zacapa;Zacapa;Los Limones, aldea Los Achiotes;14.86283333;-89.68319444;300
+9/04/2022;17:30:00;Forestal;Alta Verapaz;Tucuru;San José, Sur del Caserío Lomas de Chama;15.3;-90.11861111;8
+9/04/2022;09:00:00;Forestal;Huehuetenango;Aguacatan;Agua Blanca, Chichoche;15.33722222;-91.30555556;65
+10/04/2022;12:00:00;Forestal;Guatemala;Mixco;Finca El Carmen;14.51583333;-90.35916667;2
+10/04/2022;12:40:00;Forestal;Guatemala;San Jose Pinula;Ingreso km. 44 por Finca la Aurora la Aldea Concepción PinulaFinca  Solares ;15.32;-91.48444444;6
+10/04/2022;15:30:00;No Forestal;Huehuetenango;Huehuetenango;Zona 8;14.59805556;-90.6175;1
+10/04/2022;17:30:00;Forestal;Huehuetenango;Malacatancito;Aldea Chocal;15.26472222;-91.53111111;6
+10/04/2022;15:30:00;Forestal;Quiche;San Pedro Jocopilas;Patzojon Chiquito;15.21222222;-91.20888889;10
+10/04/2022;09:00:00;No Forestal;Quiche;Santa Cruz Del Quiche;Aldea Choacaman IV;15.11194444;-89.41388889;0.5
+10/04/2022;09:30:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Xatinap V;15.03333333;-91.09222222;1
+10/04/2022;12:25:00;No Forestal;Quiche;Santa Cruz Del Quiche;Final Zona 5;15.00888889;-91.14333333;0.5
+10/04/2022;14:30:00;No Forestal;Zacapa;Gualan;Aldea Juan Ponce;15.00888889;-91.15833333;1
+11/04/2022;16:50:00;Forestal;Jalapa;San Pedro Pinula;Aldea Los Chorros;14.83123056;-91.20434444;1
+11/04/2022;17:49:00;Forestal;Peten;San Andres;Periferia de Laguna Larga #2;14.72166667;-89.88916667;10
+11/04/2022;08:30:00;Forestal;Quetzaltenango;Quetzaltenango;Condominio Los Altos, zona 6;14.85444444;-90.50277778;1
+11/04/2022;18:40:00;Forestal;San Marcos;Sipacapa;Aldea Canoj;15.22102778;-91.58336111;45
+11/04/2022;10:00:00;Forestal;Solola;Solola;Sector Cosigua, Aldea Chaquiya;17.79805556;-90.42055556;4
+12/04/2022;19:30:00;Forestal;Huehuetenango;Chiantla;Aldea Ixquiac;15.36361111;-91.43361111;15
+12/04/2022;14:45:00;Forestal;Jalapa;Jalapa;Finca Ingenio de Ayarza;15.04138889;-91.23694444;14
+12/04/2022;17:30:00;Forestal;Quiche;San Antonio Ilotenango;Caserío Pajuyum, Aldea Xebaquit;14.71277778;-91.11777778;10
+12/04/2022;20:30:00;No Forestal;Sacatepequez;Pastores;RN-14 km 64.5, San Luis las Carretas;14.58222222;-90.64444444;0.5
+12/04/2022;16:45:00;Forestal;Sacatepequez;San Lucas Sacatepequez;Aldea Zorzoya 2;14.60333333;-90.76194444;1
+12/04/2022;17:30:00;Forestal;Solola;Santa Catarina Palopo;Aldea Xepec;14.49972222;-89.98305556;1.5
+13/04/2022;11:40:00;No Forestal;Guatemala;Mixco;Colonia El Campanero zona 8;15.36055556;-91.40861111;1
+13/04/2022;13:00:00;No Forestal;Guatemala;Mixco;Boulevard El Naranjo zona 4;14.90972222;-91.35361111;1
+13/04/2022;16:40:00;No Forestal;Guatemala;San Pedro Sacatepequez;Carretera que conduce a ciudad Quetzal a la altura del Km. 20 ;17.0125;-89.77861111;10
+13/04/2022;22:00:00;Forestal;Huehuetenango;Aguacatan;Aldea Agua Blanca;14.49555556;-90.00138889;10
+13/04/2022;17:30:00;Forestal;Huehuetenango;Chiantla;Aldea las Guayabitas;15.3375;-91.30527778;1
+13/04/2022;07:00:00;Forestal;Jalapa;Jalapa;Aldea Varejones;14.93944444;-90.99972222;115
+13/04/2022;12:20:00;Forestal;Peten;Flores;Aldea El Capulinar;14.99972222;-91.02;1.2
+13/04/2022;14:40:00;No Forestal;Quiche;Chiche;Aldea Laguna Seca III;14.59241667;-90.60961111;10
+13/04/2022;13:00:00;Forestal;Quiche;Chiche;Tierra Colorada;14.66202778;-90.55244444;15
+13/04/2022;17:30:00;Forestal;Quiche;Chinique;Aldea Las Vigas;14.98777778;-91.02083333;3
+13/04/2022;15:30:00;No Forestal;San Marcos;Ocos;Comunidad 31 de Julio;14.53559444;-92.21065278;0.8
+13/04/2022;17:35:00;Forestal;Totonicapan;Totonicapan;Paraje Chocolet, cantón Chiyax;14.68463889;-90.57516667;1.5
+13/04/2022;16:00:00;Forestal;Zacapa;Rio Hondo;El Cajón, Aldea Jones;15.12027778;-89.55555556;1
+14/04/2022;09:00:00;Forestal;Chiquimula;Camotán;Cerro Mal Paso, Aldea Pajcó;15.04213333;-89.59536667;77
+14/04/2022;09:00:00;Forestal;Guatemala;San Juan Sacatepequez;Finca El Pilar;14.53627778;-89.79505556;10
+14/04/2022;11:00:00;No Forestal;Huehuetenango;Chiantla;Sector Cerro Grande;14.7115;-90.73611111;1
+14/04/2022;06:20:00;Forestal;Jalapa;San Manuel Chaparron;Aldea El Pedernal;14.85073611;-89.35675778;1
+14/04/2022;13:25:00;Forestal;Zacapa;Rio Hondo;Aldea MoranPorte Suelo;15.36777778;-91.4525;12
+15/04/2022;15:05:00;Forestal;Huehuetenango;Cuilco;Plan Grande, Caserío El Herrador, Aldea Jovi;14.57138889;-89.92166667;3
+15/04/2022;19:15:00;Forestal;Huehuetenango;Huehuetenango;Sector Los de Chávez, Aldea Ocubila;15.10475;-91.03105556;2.5
+15/04/2022;14:15:00;Forestal;Jalapa;Jalapa;Aldea Salfate;15.14605556;-91.11933333;1
+15/04/2022;22:05:00;No Forestal;Peten;La Libertad;Zona Intangible PNSL;15.39972222;-91.90083333;10
+15/04/2022;08:20:00;Forestal;Quiche;Joyabaj;Aldea Pasaguay;15.34138889;-91.39611111;40
+15/04/2022;10:30:00;Forestal;Quiche;San Bartolome Jocotenango;Aldea Xemetabaj I;15.00491667;-90.76747222;750
+15/04/2022;12:10:00;Forestal;Quiche;Santa Cruz Del Quiche;Caserio Pachoj, Aldea Chujuyub;15.08872778;-89.75240278;25
+15/04/2022;15:30:00;Forestal;Zacapa;Rio Hondo;Achotal, Santa Rosalía Marmol,;17.09741667;-91.19238889;15
+16/04/2022;15:40:00;No Forestal;Guatemala;San Juan Sacatepequez;San Francisco del Bosque 1 de San Juan Sacatepéquez ruta a Ciudad Quetzal ;15.04213333;-89.59536667;12
+16/04/2022;10:50:00;No Forestal;Guatemala;San Pedro Ayampuc;Km 12.5 carretera a San Pedro Ayampuc, Colonia El Chan II;14.68538889;-90.58430556;25
+16/04/2022;10:55:00;Forestal;Huehuetenango;Huehuetenango;Buena Vista, Aldea Xetenam;14.71241944;-90.457675;3
+16/04/2022;12:50:00;Forestal;Jalapa;Monjas;Aldea El Izotal;15.27027778;-91.43461111;1
+16/04/2022;17:55:00;Forestal;Quiche;Chinique;Colonia Nueva Jerusalén;15.00027778;-90.77638889;5
+16/04/2022;15:00:00;Forestal;Quiche;Chinique;Cantón Buena Vista;14.57038889;-89.91705556;25
+16/04/2022;18:20:00;Forestal;Quiche;Joyabaj;Aldea Chuixil;14.86283333;-89.68319444;20.2
+16/04/2022;20:05:00;Forestal;Zacapa;Rio Hondo;TabacalLa Vacadilla;15.04777778;-91.04138889;10
+16/04/2022;12:30:00;Forestal;Zacapa;Zacapa;Aldea Los Achiotes;15.05722222;-90.96888889;50
+17/04/2022;15:37:00;Forestal;Baja Verapaz;Salama;Aldea Vista Hermosa;14.83777778;-89.91083333;2
+17/04/2022;21:20:00;Forestal;Chimaltenango;El Tejar;ENON y XEJUYU;14.99611111;-91.18472222;1
+17/04/2022;12:00:00;No Forestal;Guatemala;San Juan Sacatepequez;Km. 27 Colonia Bosques del Quetzal;14.81388889;-91.50861111;40
+17/04/2022;15:00:00;Forestal;Guatemala;San Pedro Ayampuc;El Limón;14.57833333;-90.78416667;14
+17/04/2022;10:00:00;No Forestal;Guatemala;San Raymundo;Cerro Posterior de Colonia Sinaí ;14.91333333;-91.48916667;6
+17/04/2022;12:55:00;Forestal;Huehuetenango;Santa Eulalia;Aldea Yulk'ol;14.75441667;-90.59375;4.5
+17/04/2022;16:05:00;Forestal;Jalapa;Jalapa;Finca Ingenio de Ayarza;15.04222222;-91.23166667;1
+17/04/2022;19:05:00;Forestal;Jalapa;San Pedro Pinula;Aldea Tobon;14.70805556;-90.58166667;1
+17/04/2022;10:00:00;No Forestal;Peten;Melchor De Mencos;Aldea El Camalote;15.71166667;-91.45222222;21
+17/04/2022;12:00:00;No Forestal;Peten;San Andres;El Pollo1;15.04416667;-91.29;40
+17/04/2022;13:30:00;No Forestal;Peten;San Andres;Pollo No.2;15.00666667;-91.12277778;10
+17/04/2022;14:30:00;Forestal;Quetzaltenango;Almolonga;Condominio Vista Hermosa, Almolonga;14.50583333;-89.97944444;10
+17/04/2022;16:30:00;Forestal;Quiche;Chiche;Paraje Los González;15.01019722;-91.41;45
+17/04/2022;17:30:00;Forestal;Quiche;Chichicastenango;Cantón Pachoj, Sector Lindo;15.07666667;-91.06805556;2
+17/04/2022;17:30:00;Forestal;Quiche;Chichicastenango;Cantón Pachoj, Sector Lindo;15.04722222;-91.01777778;2
+17/04/2022;19:00:00;Forestal;Quiche;Chinique;Aldea Ximbaxuc 2;14.92361111;-91.12777778;10
+17/04/2022;19:30:00;Forestal;Quiche;Chinique;Aldea Chorro Blanco;15.03472222;-91.03527778;2
+17/04/2022;19:30:00;Forestal;Quiche;Chinique;Aldea Agua Tibia 1;14.92145556;-91.35337778;18
+17/04/2022;20:00:00;Forestal;Quiche;Joyabaj;Aldea Choraxaj;15.21808333;-89.82861111;22.5
+17/04/2022;15:00:00;Forestal;Quiche;San Antonio Ilotenango;Zona 4 Chujip;15.10358333;-89.54453056;8.62
+17/04/2022;19:30:00;Forestal;Quiche;Santa Cruz Del Quiche;Sector Patzajcap, Xatinap III;14.98083333;-90.24777778;55
+17/04/2022;12:30:00;Forestal;Quiche;Santa Cruz Del Quiche;Aldea Lemoa;14.71694444;-90.44722222;0.62
+17/04/2022;13:00:00;Forestal;Sacatepequez;San Antonio Aguas Calientes;El Astillero;14.6675;-90.78763889;1.5
+17/04/2022;10:50:00;Forestal;San Marcos;Comitancillo;Caserío Rio Bravo;17.00777778;-89.18527778;60
+17/04/2022;13:10:00;Forestal;San Marcos;Sipacapa;Aldea Quequesiguan;15.03027778;-90.7825;15
+17/04/2022;17:30:00;Forestal;San Marcos;Sipacapa;Aldea Palimope;15.93611111;-90.98361111;30
+17/04/2022;18:55:00;Forestal;Totonicapan;Momostenango;Aldea Tierra Colorada;15.12138889;-91.72861111;15
+17/04/2022;11:00:00;Forestal;Totonicapan;San Cristobal Totonicapan;Aldea Xecatabaj,;14.92361111;-91.12777778;4
+17/04/2022;12:00:00;Forestal;Totonicapan;Santa Maria Chiquimula;Aldea Chuacorral 1;14.84513333;-91.52561667;6
+17/04/2022;12:00:00;Forestal;Totonicapan;Totonicapan;Paraje Chonimabaj, zona 1;15.15219444;-91.64463889;0.25
+17/04/2022;12:30:00;Forestal;Zacapa;Gualan;Aldea El Lobo;17.37694444;-90.06055556;200
+17/04/2022;12:40:00;Forestal;Zacapa;Rio Hondo;Aldea Jones;17.38130833;-90.05044167;75
+18/04/2022;12:50:00;No Forestal;Guatemala;Chinautla;Villas del milagro Sector 8;15.03933056;-91.35267778;14
+18/04/2022;13:25:00;Forestal;Guatemala;Guatemala;Colonia Virgen de la Montaña Km.13;14.95027778;-91.31055556;1
+18/04/2022;13:30:00;No Forestal;Guatemala;Guatemala;Km. 21.5 Carretera al Atlántico.;14.92036667;-91.361775;4
+18/04/2022;13:50:00;Forestal;Guatemala;Guatemala;14 Av. 31 calle Final, Zona 7, La Bethania;14.74111111;-90.40361111;10
+18/04/2022;13:55:00;No Forestal;Guatemala;San Juan Sacatepequez;Km 9.5, Fuentes del Valle Norte;14.67138889;-90.40722222;10
+18/04/2022;14:40:00;Forestal;Guatemala;San Pedro Ayampuc;Cerro de Finca La Viña, El Tizate ;15.05583333;-91.17555556;195
+18/04/2022;14:45:00;Forestal;Guatemala;San Pedro Ayampuc;Kilometro 13  El Limon;14.71700556;-90.44728056;4
+18/04/2022;15:00:00;No Forestal;Guatemala;San Pedro Ayampuc;Sector 2, La Leyenda;14.73786667;-90.44826389;2
+18/04/2022;17:40:00;Forestal;Huehuetenango;Chiantla;Aldea Taluca;15.3425;-91.04361111;38.8
+18/04/2022;19:00:00;Forestal;Huehuetenango;Ixtahuacan;Caserío Chupil ;15.34444444;-91.04166667;272
+18/04/2022;20:00:00;Forestal;Jalapa;Jalapa;Caserío San Lorenzo;15.40856111;-91.85991667;1
+18/04/2022;15:30:00;Forestal;Jalapa;Jalapa;Caserío San Lorenzo, Aldea San Miguel Mojón;14.93194444;-90.76833333;1
+18/04/2022;16:10:00;Forestal;Jalapa;San Pedro Pinula;Pinalito El Porvenir;14.80861111;-91.5125;1
+18/04/2022;12:00:00;Forestal;Peten;La Libertad;Caserío Santa Rita;15.11944444;-91.5025;0.5
+18/04/2022;14:59:00;No Forestal;Peten;San Andres;Sector La Picazón #2 PNLT;ERROR: Server error: Entry not found in index;ERROR: Server error: Entry not found in index;115.92
+18/04/2022;10:25:00;No Forestal;Peten;San Andres;Sureste área del infiernito PNLT;16.81305556;-90.04527778;90.5
+18/04/2022;12:55:00;Forestal;Quetzaltenango;Cabrican;Comunidad El Mirador Xux;14.73777778;-91.11972222;150
+18/04/2022;13:30:00;Forestal;Quetzaltenango;Quetzaltenango;Condominio Vista Hermosa;14.65173333;-90.53369167;3
+18/04/2022;17:30:00;Forestal;Quiche;Cunen;Aldea Xecanac;14.65173333;-90.53369167;18
+18/04/2022;17:30:00;Forestal;Quiche;Cunen;Xejutut;ERROR: Server error: Entry not found in index;ERROR: Server error: Entry not found in index;10
+18/04/2022;21:30:00;Forestal;Quiche;Joyabaj;Río Blanco;15.37277778;-91.44944444;1
+18/04/2022;21:00:00;Forestal;Quiche;Sacapulas;Caserío Pacan;14.69138889;-90.46261111;80
+18/04/2022;15:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Pamesebal I;15.02555556;-91.365;2
+18/04/2022;16:50:00;Forestal;Solola;San Andres Semetabaj;Cerro Xejuyú;14.99938889;-92.86875278;1
+18/04/2022;13:25:00;Forestal;Totonicapan;Santa Maria Chiquimula;Aldea Chuiaj;15.30466667;-91.08594444;20
+18/04/2022;14:30:00;Forestal;Totonicapan;Santa Maria Chiquimula;Chuacorral II;14.69055556;-89.90388889;275
+18/04/2022;18:30:00;No Forestal;Totonicapan;Santa Maria Chiquimula;Aldea Rancho;17.21555556;-90.165;450
+18/04/2022;20:00:00;Forestal;Totonicapan;Totonicapan;Cantón Cojxac;17.36639722;-90.41904444;1.5
+19/04/2022;23:00:00;Forestal;Baja Verapaz;San Jeronimo;Aldea El Astillero;14.55222222;-90.73694444;2
+19/04/2022;09:00:00;No Forestal;Guatemala;Chinautla;Villas del Milagro Sector 3 zona 0 ;14.71741667;-90.39402778;2
+19/04/2022;10:00:00;Forestal;Guatemala;Guatemala;Bodegas del inmaco, Zona 1;14.74338611;-90.43268056;6
+19/04/2022;10:00:00;Forestal;Guatemala;Guatemala;Sector El Tablón, Cantón Los encuentros, Canalitos zona 24;15.04213333;-89.59536667;10
+19/04/2022;13:00:00;Forestal;Guatemala;Palencia;Final 35 calle el fiscal;14.84944444;-90.74388889;4
+19/04/2022;13:30:00;Forestal;Guatemala;San Pedro Ayampuc;Interior de Finca la Viña;15.03388889;-90.22638889;8
+19/04/2022;13:40:00;Forestal;Guatemala;San Pedro Sacatepequez;Sector I y II aldea Chillani ;14.99666667;-91.13305556;60
+19/04/2022;13:45:00;No Forestal;Guatemala;San Pedro Sacatepequez;Sector II aldea Chillani;14.92222222;-91.35371667;5
+19/04/2022;13:50:00;Forestal;Jutiapa;Santa Catarina Mita;Faldas del Volcán Suchitan;14.70558333;-90.52541667;23
+19/04/2022;14:30:00;Forestal;Quetzaltenango;Cantel;Cerro Chuicham;14.91563333;-91.385575;45
+19/04/2022;20:00:00;Forestal;Quiche;San Antonio Ilotenango;Sector Tesoro del Rey;15.04305556;-91.22083333;5
+19/04/2022;13:50:00;Forestal;Quiche;San Antonio Ilotenango;Zona 4;14.795;-91.43527778;8
+19/04/2022;15:55:00;Forestal;Quiche;San Bartolome Jocotenango;Aldea Xetemabaj I, Sector 2;14.7225;-90.54611111;3.9
+19/04/2022;20:42:00;Forestal;Quiche;Santa Cruz Del Quiche;Cantón Cacho, aldea Lemoa;14.63643333;-90.48521111;25
+19/04/2022;16:09:00;Forestal;Quiche;Zacualpa;Aldea Arriquin;14.49944444;-90.74388889;25
+19/04/2022;14:30:00;No Forestal;Sacatepequez;Antigua Guatemala;9 calle poniente, entre hotel Solei y las Farolas;14.63161111;-90.44847222;0.4
+19/04/2022;16:00:00;Forestal;Sacatepequez;Antigua Guatemala;Cerro la Virgen, San Pedro las Huertas;14.56722222;-90.64444444;0.5
+19/04/2022;17:15:00;Forestal;Sacatepequez;San Lucas Sacatepequez;Embaulada, colindante con Vuelta el Zope o Arenera;15.16916667;-91.10027778;4.5
+19/04/2022;14:00:00;Forestal;Sacatepequez;Santa Maria De Jesus;Cerro cucurucho, corazón de agua;14.72027778;-90.53611111;1.5
+19/04/2022;15:40:00;Forestal;Solola;San Pablo La Laguna;Cerro Chui Saj Laq';15.0856;-89.750425;13
+19/04/2022;16:10:00;Forestal;Totonicapan;Totonicapan;Paraje Chonimabaj, zona 1;15.04611111;-91.2225;1
+19/04/2022;12:30:00;Forestal;Totonicapan;Totonicapan;Cantón Chuicruz;15.04027778;-90.90416667;1.5
+19/04/2022;12:06:00;Forestal;Zacapa;Rio Hondo;Campamento, La Montañita, Moran;14.73527778;-91.28277778;20
+19/04/2022;14:35:00;Forestal;Zacapa;Rio Hondo;Filo del rastrillo, Sub cuenca Pasabien;14.38138889;-89.78;45
+20/04/2022;12:25:00;Forestal;Chiquimula;Esquipulas;Aldea CuevitasFinca El Sacramento;14.42716667;-89.90080556;30
+20/04/2022;15:30:00;Forestal;Guatemala;Chinautla;Ladera de aldea Bosque zona 0 ;16.60527778;-89.18972222;1
+20/04/2022;20:39:00;No Forestal;Guatemala;Guatemala;Colonia Virgen de la Montaña Km.13  ruta al atlántico;15.04861111;-91.36694444;6
+20/04/2022;11:30:00;No Forestal;Guatemala;Mixco;14 Avenida a un costado del Numeral 0-39 Colonia Urbanización González Zona 2;14.89083333;-90.96;2
+20/04/2022;10:00:00;Forestal;Guatemala;Mixco;Carretera antigua a San Lucas zona 1;14.49583333;-90.02166667;3
+20/04/2022;13:00:00;Forestal;Guatemala;Mixco;Condado San Nicolas zona 4 ;14.64111111;-90.63166667;4
+20/04/2022;14:30:00;Forestal;Guatemala;San Jose Pinula;Residenciales Del Bosque;14.68083333;-90.55527778;8
+20/04/2022;23:30:00;Forestal;Jalapa;Jalapa;Caserío Laguna verde Río Blanco Arriba;14.67166667;-90.40722222;1
+20/04/2022;13:10:00;Forestal;Jutiapa;El Progreso;Tahual;14.63472222;-89.30694444;20
+20/04/2022;13:30:00;Forestal;Peten;Dolores;Caserio San Marcos;15.00555556;-91.01027778;15
+20/04/2022;14:00:00;Forestal;Quiche;Chinique;Aldea El Durazno Las Vigas;14.93777778;-90.93138889;2
+20/04/2022;15:00:00;Forestal;Quiche;Ixcan;Aldea El Playón;15.05083333;-91.23361111;2
+20/04/2022;22:00:00;Forestal;Quiche;Joyabaj;Aldea Panchaj;14.71388889;-90.51361111;2.5
+20/04/2022;22:10:00;Forestal;Quiche;San Antonio Ilotenango;Cerro del Amor;14.5575;-90.42555556;25
+20/04/2022;14:00:00;Forestal;Totonicapan;Momostenango;Aldea paraje Pamesebal, aldea Xequemeya, ;15.84055556;-90.76055556;300
+21/04/2022;14:30:00;Forestal;Baja Verapaz;Cubulco;Caserío Chisantiago;15.04213333;-89.59536111;45
+21/04/2022;16:00:00;Forestal;El Progreso;San Agustin Acasaguastlan;Caserío Las Delicias;14.48716667;-90.53025;25
+21/04/2022;08:20:00;No Forestal;Guatemala;Guatemala;"23 avenida ""D"" y 16 calle colonia El Limon zona 18";14.665;-90.46416667;2
+21/04/2022;08:21:00;No Forestal;Guatemala;Mixco;Ladera del Kilómetro 19 zona 6 Ruta a Ciudad Quetzal;14.72527778;-90.52222222;1
+21/04/2022;15:20:00;Forestal;Guatemala;San Jose Pinula;Residenciales Del Bosque, Aldea el Platanar El Chojin;16.66111111;-90.30333333;3
+21/04/2022;13:16:00;Forestal;Guatemala;San Juan Sacatepequez;Loma Linda, Lomas de San Juan;15.02027778;-91.16527778;4
+21/04/2022;15:05:00;No Forestal;Guatemala;San Pedro Ayampuc;Parte alta de Extremo de Buses Las Villas;14.76822222;-90.60561111;3
+21/04/2022;11:00:00;Forestal;Guatemala;San Pedro Ayampuc;Cerro de aldea el Tizate;14.74527778;-90.44;25
+21/04/2022;13:00:00;No Forestal;Guatemala;San Pedro Ayampuc;Cerro al ingreso de Casco Urbano del municipio;14.74222222;-90.41888889;35
+21/04/2022;12:10:00;Forestal;Guatemala;San Pedro Sacatepequez;Aldea ChillaniFinca las Conchas;14.77166667;-90.45444444;25
+21/04/2022;16:10:00;No Forestal;Guatemala;Villa Canales;San Francisco Tuluja;15.03100556;-89.998075;0.1
+21/04/2022;15:50:00;No Forestal;Huehuetenango;Chiantla;Cementerio General,;14.68333333;-90.5725;1
+21/04/2022;15:30:00;Forestal;Huehuetenango;Santa Eulalia;Buena Vista;14.57666667;-90.40472222;4
+21/04/2022;18:10:00;Forestal;Peten;Las Cruces;Barrio Nuevo León;15.74722222;-91.47361111;1
+21/04/2022;11:20:00;No Forestal;Peten;San Andres;El Limón ZUM;15.18722222;-90.66611111;12
+21/04/2022;15:00:00;No Forestal;Peten;San Andres;El Pollo NO. 3;15.35305556;-91.46222222;25
+21/04/2022;19:00:00;Forestal;Quiche;Santa Cruz Del Quiche;Ruinas de Q'umarkaj;15.11388889;-90.81055556;3
+21/04/2022;16:40:00;Forestal;San Marcos;Tejutla;Colonia Buenos Aires;14.46730556;-90.26029722;0.17
+21/04/2022;13:00:00;Forestal;Santa Rosa;Nueva Santa Rosa;Las Flores, Chapas;17.36575556;-90.05023611;2
+21/04/2022;17:00:00;Forestal;Zacapa;Rio Hondo;La Cuchilla del Imposible, Jones;17.37339444;-90.05966667;115
+22/04/2022;12:30:00;Forestal;Chiquimula;Esquipulas;Caserío El Limón, Aldea San Nicolás;14.63361111;-89.98;15
+22/04/2022;20:00:00;Forestal;Huehuetenango;Huehuetenango;Aldea El Río, Zaculeu Centro Zona 9;14.55493056;-89.35899167;1
+22/04/2022;10:00:00;No Forestal;Jalapa;Jalapa;Colonia 15 de Febrero;15.33138889;-91.00861111;1
+22/04/2022;10:30:00;No Forestal;Peten;Las Cruces;Zona Intangible PNSL;15.33166667;-91.51916667;35
+22/04/2022;13:30:00;Forestal;Quiche;Cunen;Aldea Río Blanco;15.2575;-90.75194444;2
+22/04/2022;15:30:00;Forestal;Quiche;Uspantan;Caserio San Lucas zona Sur;14.88722222;-91.4125;2
+22/04/2022;13:45:00;Forestal;Sacatepequez;Antigua Guatemala;El Panorama condominio Las Margaritas;14.54741667;-92.74491667;0.4
+22/04/2022;22:08:00;Forestal;Totonicapan;Totonicapan;Cantón Patzarajmac;16.91335;-90.94858333;2.5
+23/04/2022;11:20:00;Forestal;Jalapa;Jalapa;Cerro Alcoba;14.56694444;-90.63444444;1
+23/04/2022;12:00:00;Forestal;Quiche;Chinique;Sector La Cruz;14.63305556;-89.96083333;3.5
+23/04/2022;09:30:00;Forestal;Quiche;Santa Cruz Del Quiche;Sector La Comunidad;15.05055556;-91.01166667;4
+23/04/2022;14:00:00;Forestal;Sacatepequez;San Lucas Sacatepequez;tres Reyes la Embaulada;15.015;-91.16638889;1.5
+24/04/2022;14:45:00;Forestal;Baja Verapaz;Rabinal;Cerro Xecamba, Aldea Pachalum;14.74472222;-91.2325;2
+24/04/2022;13:30:00;Forestal;Baja Verapaz;San Jeronimo;Cerro Toro Seco Aldea El Cacao ;14.70833333;-89.81027778;3
+24/04/2022;12:30:00;Forestal;Baja Verapaz;San Jeronimo;Aldea el Cacao;13.05833333;-90.27361111;3
+24/04/2022;22:57:00;Forestal;Jalapa;San Pedro Pinula;Aldea Rio Blanco;15.09583333;-90.45444444;1
+24/04/2022;16:00:00;Forestal;Solola;Santa Cruz La Laguna;Chuitzam chaj;15.05833333;-90.27361111;0.5
+25/04/2022;13:55:00;Forestal;Quiche;San Pedro Jocopilas;Aldea el Tablón;15.20805556;-91.21222222;2
+26/04/2022;14:30:00;No Forestal;Jalapa;Jalapa;Aldea Llano Grande;14.61811111;-89.97519444;5
+26/04/2022;15:00:00;Forestal;Jalapa;Jalapa;Ingenio Ayarza;14.5075;-89.97611111;50
+27/04/2022;09:00:00;Forestal;Huehuetenango;Chiantla;Cantón La Laguna, Aldea Ocubilá;15.18555556;-90.82611111;4
+27/04/2022;14:00:00;Forestal;Huehuetenango;Jacaltenango;San Andrés Huista;15.72694444;-91.7175;2.5
+27/04/2022;14:10:00;Forestal;Quiche;Canilla;Aldea El Aguacate;15.335;-91.43722222;5
+28/04/2022;16:45:00;No Forestal;Jalapa;San Pedro Pinula;Barrio San Pablo;14.99222222;-89.53194444;0.8
+28/04/2022;20:00:00;Forestal;Zacapa;Zacapa;Comunidad Pueblo Modelo;14.67138889;-89.85144444;1
+29/04/2022;14:00:00;Forestal;Huehuetenango;Huehuetenango;Colonia Los Pinos, Zaculeu zona 9;15.33333333;-91.51083333;1.5
+29/04/2022;14:15:00;Forestal;Huehuetenango;Nenton;Puente de Piedra;15.78116667;-91.74352778;10
+30/04/2022;14:38:00;Forestal;Baja Verapaz;Rabinal;Aldea San Luis;15.05833333;-90.40555556;15
+30/04/2022;15:10:00;Forestal;Huehuetenango;Aguacatan;Caserío la Laguna 2, Aldea las Majadas;15.49888889;-91.75944444;5
+30/04/2022;16:05:00;Forestal;Huehuetenango;San Pedro Necta;Cerro Tapix;15.35472222;-91.22361111;1
+2/05/2022;17:30:00;No Forestal;El Progreso;Morazan;Caserío El Tablón;16.94916667;-89.97258333;1.5
+2/05/2022;15:56:00;No Forestal;Peten;San Andres;Finca Candelaria;14.96636111;-90.19321389;2.5
+2/05/2022;12:00:00;Forestal;San Marcos;Rio Blanco;Rio Hondo;15.03966667;-91.69556944;0.2
+3/05/2022;12:45:00;Forestal;Baja Verapaz;San Jeronimo;Aldea La Rinconada;15.04527778;-90.22333333;12
+3/05/2022;13:30:00;Forestal;Huehuetenango;Huehuetenango;Aldea Sucuj;15.30111111;-91.395;85
+3/05/2022;13:30:00;Forestal;Jalapa;Jalapa;Caserío Las Crusitas;14.63002778;-89.94141667;5
+3/05/2022;20:23:00;Forestal;Quiche;San Andres Sajcabaja;Colonia Cipresales;15.18816667;-90.93358333;3
+4/05/2022;21:30:00;Forestal;Baja Verapaz;Salama;Aldea Las TrojasHacienda Rincón Grande;15.02472222;-90.35027778;18
+5/05/2022;14:30:00;Forestal;Jalapa;Jalapa;Carretera a Caserío el Maestrillo;14.61361111;-89.95588889;5
+5/05/2022;12:07:00;Forestal;Jalapa;Jalapa;Aldea La Ventura;15.01666667;ERROR: Server error: Entry not found in index;10
+5/05/2022;09:00:00;Forestal;Quiche;Cunen;Llano los Ratones;14.69269444;-89.98602778;2
+5/05/2022;12:00:00;Forestal;Zacapa;Zacapa;Aldea Los Limones;15.34527778;-90.02472222;1
+6/05/2022;15:20:00;Forestal;Zacapa;Gualan;Las Verapaces;15.04435556;-89.64536111;30
+7/05/2022;19:00:00;No Forestal;Huehuetenango;Jacaltenango;Aldea Hunta;ERROR: Server error: Entry not found in index;ERROR: Server error: Entry not found in index;10
+7/05/2022;14:23:00;No Forestal;Peten;San Andres;Kilómetro 20PDN Nijtun;15.75;-91.83444444;1
+7/05/2022;08:00:00;Forestal;Quiche;Joyabaj;Sector Las Cuevas;14.96638889;-90.71666667;3
+8/05/2022;14:50:00;Forestal;Huehuetenango;Santa Eulalia;Aldea La Yul Kisis;15.70277778;-91.46305556;4.5
+8/05/2022;14:37:00;No Forestal;Peten;San Andres;Triangulo Candelaria Las Guacamayas;17.75111111;-90.42416667;167
+9/05/2022;15:10:00;Forestal;Huehuetenango;Huehuetenango;Aldea Ocubila;15.71083333;-91.45111111;3.5
+9/05/2022;14:30:00;Forestal;Huehuetenango;Santa Eulalia;Aldea La Chumajte;15.31944444;-91.38166667;1.5
+10/05/2022;18:00:00;Forestal;Baja Verapaz;Salama;Aldea Santa Bárbara;15.07638889;ERROR: Server error: Entry not found in index;1
+10/05/2022;21:50:00;Forestal;Baja Verapaz;San Jeronimo;Caserío Los Oajaca, Aldea El Astillero;15.03638889;-90.25472222;15
+10/05/2022;19:30:00;Forestal;Huehuetenango;Chiantla;Sector Sapojolaj;15.27083333;-91.48777778;1.1
+10/05/2022;19:00:00;Forestal;Huehuetenango;Malacatancito;Aldea La Cumbre;15.34972222;-91.44444444;45
+11/05/2022;11:30:00;Forestal;Alta Verapaz;Lanquin;Aldea Chisubin;16.345;-89.41861111;15
+11/05/2022;11:00:00;Forestal;Baja Verapaz;Rabinal;Aldea Chitucan;15.03638889;-90.27138889;10
+11/05/2022;15:54:00;Forestal;Huehuetenango;Aguacatan;Caserío Chuikankab, Aldea Llano del Coyote;16.95611111;-89.95791667;1.5
+11/05/2022;17:47:00;Forestal;Jalapa;Jalapa;Caserio Las Tapias;15.31083333;-91.21611111;35
+11/05/2022;12:00:00;Forestal;Jalapa;Monjas;Caserío Garay;14.50977778;-89.94797222;35
+11/05/2022;18:50:00;No Forestal;Peten;Poptun;Barrio El Porvenir ;15.57919444;-89.98200556;0.5
+11/05/2022;14:59:00;Forestal;Peten;San Andres;400 metros del Puente RellenoFinca Candelaria;16.80230556;-89.89327778;2.3
+11/05/2022;12:45:00;Forestal;Peten;San Andres;Frente al  Parque Ecologico Calvani;15.48;-91.24138889;2
+11/05/2022;15:19:00;No Forestal;Peten;San Benito;Colonia Juárez;16.95611111;-89.95791667;8.8
+11/05/2022;12:45:00;Forestal;Peten;San Francisco;A 4 Km de San Francisco ruta hacia el municipio de Santa Ana;15.91488889;-89.95219444;1.8
+11/05/2022;14:15:00;Forestal;Quiche;Nebaj;Aldea Xepium;14.51194444;-89.78916667;5
+12/05/2022;17:18:00;Forestal;El Progreso;Guastatoya;Aldea El Naranjo;16.54611111;-90.8075;2.5
+12/05/2022;22:20:00;Forestal;Jalapa;Jalapa;Aldea La Ventura;15.41027778;-91.18638889;1
+12/05/2022;10:29:00;Forestal;Jalapa;San Luis Jilotepeque;Aldea Garay;14.81118889;-89.97884167;5
+12/05/2022;14:10:00;No Forestal;Peten;San Benito;Aldea San Antonio;15.39694444;-91.18194444;3.5
+12/05/2022;15:35:00;Forestal;Quiche;Nebaj;Sector Vatz Calitza, Aldea Acul;14.51083333;-89.69444444;3
+12/05/2022;12:20:00;Forestal;Quiche;Nebaj;Sector Vi Sacuya, Aldea Acul;16.87358333;-90.02613889;1
+12/05/2022;09:00:00;No Forestal;Sacatepequez;San Antonio Aguas Calientes;Aldea Santiago Zamora;14.712;-89.97213889;1
+13/05/2022;11:00:00;Forestal;Jalapa;Jalapa;Caserío Llano La Puerta;16.93041667;-89.53169444;85
+13/05/2022;12:25:00;Forestal;Peten;Flores;Aldea El Zapote;14.71222222;-89.96919444;6
+13/05/2022;12:31:00;No Forestal;Peten;San Andres;Sureste del Sacluc del PNLT;14.98805556;-90.76805556;32.37
+13/05/2022;13:00:00;Forestal;Quiche;Nebaj;Aldea Chuaquenum;15.18805556;-89.36361111;8
+13/05/2022;16:40:00;Forestal;Quiche;Nebaj;Sector Suchum, Aldea Buena Vista;15.4875;-91.13722222;10
+13/05/2022;12:30:00;Forestal;Zacapa;Gualan;Aldea La Bolsa;15.19127778;-89.37480556;1
+13/05/2022;14:45:00;Forestal;Zacapa;Gualan;Quebrada Onda, La Vega;17.24611111;-92.73694444;180
+14/05/2022;15:05:00;Forestal;Baja Verapaz;San Miguel Chicaj;Aldea Dolores;14.6975;-89.96027778;8
+14/05/2022;16:30:00;Forestal;Guatemala;San Raymundo;Aldea La CienegaLos Archila y Santa Isabel;14.72924722;-90.55592778;1
+14/05/2022;17:50:00;Forestal;Huehuetenango;Union Cantinil;Aldea Guantan;15.04213333;-89.59536111;10
+14/05/2022;21:00:00;Forestal;Jalapa;Jalapa;Caserío San Antonio La Noria;16.93583333;-89.88694444;20
+14/05/2022;14:30:00;Forestal;Peten;Flores;Aldea San Miguel;15.06222222;-90.41222222;1
+14/05/2022;15:20:00;Forestal;Zacapa;Rio Hondo;Santa Rosalía Marmol;15.59111111;-91.77277778;101
+15/05/2022;23:30:00;Forestal;Alta Verapaz;Lanquin;Aldea Chisubin;14.61388889;-90.445;32
+15/05/2022;10:00:00;Forestal;Guatemala;Guatemala;Cantón Las Pilas, Canalitos Zona 24;14.98916667;-90.79444444;1
+15/05/2022;11:20:00;Forestal;Guatemala;San Raymundo;Aldea La Ciénega Santa Isabel;15.01833333;-90.77388889;1
+15/05/2022;13:25:00;Forestal;Quiche;Joyabaj;Aldea Chotuj;15.57494444;-89.98088611;12
+15/05/2022;19:00:00;Forestal;Quiche;Joyabaj;Aldea Quiacoj;14.73061111;-90.5555;20
+16/05/2022;19:18:00;Forestal;Huehuetenango;Huehuetenango;Aldea Chilap, San Sebastián Coatan;14.67475;-89.9395;35
+16/05/2022;19:40:00;Forestal;Jalapa;Jalapa;Aldea Peña Bruja;14.74;-90.04138889;2
+16/05/2022;20:10:00;Forestal;Jalapa;Jalapa;Aldea Guishoro;15.77055556;-91.54083333;3
+16/05/2022;11:00:00;No Forestal;Peten;San Andres;La Naranjita Unidad de Manejo La Pasadita;17.29694444;-90.99166667;2
+17/05/2022;12:25:00;Forestal;Jutiapa;Quesada;Cerro Casillas;14.38138889;-89.78;10
+17/05/2022;14:00:00;Forestal;Peten;Poptun;Caserío Francisco Sagastume;16.36694444;-89.32736111;15
+17/05/2022;20:00:00;Forestal;Quiche;Ixcan; Asicate;15.137;-89.82305556;5
+17/05/2022;17:30:00;Forestal;Zacapa;Teculutan;Quebrada de Las Sirenas ;16.03138889;-90.77222222;1
+18/05/2022;13:40:00;Forestal;Huehuetenango;Santa Ana Huista;Cerro Mampil;15.68388889;-91.84166667;22
+18/05/2022;08:50:00;Forestal;Peten;San Andres;El Picudo PNLT;15.01638889;-90.79944444;70
+18/05/2022;19:30:00;Forestal;Quiche;Joyabaj;Aldea Panchun;15.43944444;-90.97694444;2
+18/05/2022;15:00:00;Forestal;Quiche;San Juan Cotzal;Aldea La Bendición;17.67466667;-90.54511111;2
+19/05/2022;12:00:00;Forestal;Baja Verapaz;Salama;Cerro la Cruz;14.71086667;-90.11249167;4
+19/05/2022;14:20:00;Forestal;El Progreso;Sansare;Aldea Poza Verde;15.97805556;-90.77611111;3.5
+19/05/2022;11:00:00;Forestal;Peten;Flores;Barrio Las Flores;ERROR: Server error: Entry not found in index;ERROR: Server error: Entry not found in index;1
+19/05/2022;11:15:00;Forestal;Peten;Poptun;La Calera;15.09055556;-90.32111111;15
+19/05/2022;09:30:00;No Forestal;Peten;San Andres;Chocop, Parque Nacional Laguna del Tigre;16.33941667;-89.34158333;400
+19/05/2022;13:00:00;No Forestal;Peten;San Andres;La Montura;17.63036111;-90.44355556;15
+19/05/2022;12:00:00;No Forestal;Quiche;Ixcan;Zona 2;17.2025;-92.45555556;3
+20/05/2022;19:00:00;Forestal;Peten;San Andres;Caserio La Ceibita;17.11222222;-90.17222222;1
+20/05/2022;12:00:00;Forestal;Peten;San Francisco;Detrás del vertedero;ERROR: Server error: Entry not found in index;ERROR: Server error: Entry not found in index;1
+21/05/2022;12:30:00;Forestal;Peten;La Libertad;Caserío Santa Rita;16.82003333;-90.05093333;2
+21/05/2022;13:30:00;No Forestal;Peten;San Andres;San Miguel La Palotada;16.76441667;-89.83719444;45
+21/05/2022;16:00:00;No Forestal;Peten;San Andres;COI Cruce a La Colorada;17.22493889;-89.9714;1.6
+21/05/2022;19:00:00;No Forestal;Peten;San Andres;San Miguel La Palotada ;17.39551111;-90.00899722;45
+21/05/2022;22:40:00;No Forestal;Peten;Sayaxche;Finca La Pacaya;17.22472222;-89.97138889;225
+22/05/2022;20:40:00;Forestal;Quiche;Chajul;Aldea Xix;15.495;-91.10833333;10
+23/05/2022;14:04:00;No Forestal;Peten;San Andres;Área Recuperada Pollo Solo PNSL;16.89255556;-90.94783333;45
+26/05/2022;15:00:00;Forestal;El Progreso;Morazan;Aldea Marajuma;14.92624167;-90.10115833;1.5

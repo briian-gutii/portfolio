@@ -1,0 +1,8 @@
+
+Análisis de Vuelos desde Guatemala:
+
+1. Precio promedio: $340.00
+2. Precio máximo: $550.00 (Los Angeles)
+3. Precio mínimo: $180.00 (San Salvador)
+4. Vuelo más largo: Los Angeles (310 minutos)
+5. Vuelo más corto: San Salvador (70 minutos)

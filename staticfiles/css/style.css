@@ -1,0 +1,362 @@
+:root {
+  --primary-color: #7C3AED;
+  --text-color: #1F2937;
+  --background-color: #FFFFFF;
+  --secondary-color: #4B5563;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: var(--text-color);
+  background-color: var(--background-color);
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* Header Styles */
+.header {
+  background-color: var(--background-color);
+  padding: 20px 0;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo svg {
+  display: block;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.nav-link {
+  color: var(--text-color);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: var(--primary-color);
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 9999px;
+  text-decoration: none;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+
+.btn-primary:hover {
+  background-color: #6D28D9;
+}
+
+.menu-toggle {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 24px;
+  color: var(--text-color);
+  cursor: pointer;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding: 80px 0;
+}
+
+.hero-title {
+  font-size: 48px;
+  font-weight: 800;
+  margin-bottom: 20px;
+  color: var(--text-color);
+}
+
+.hero-subtitle {
+  font-size: 20px;
+  color: var(--secondary-color);
+  max-width: 600px;
+  margin: 0 auto 40px;
+}
+
+.hero-image {
+  margin-bottom: 40px;
+}
+
+.profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 8px solid var(--primary-color);
+}
+
+/* Skills Showcase */
+.skills-showcase {
+  text-align: center;
+  margin-bottom: 80px;
+}
+
+.skills-image {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Projects Section */
+.projects {
+  padding: 80px 0;
+  background-color: #F3F4F6;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.project-card {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background: white;
+}
+
+.project-card img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.project-card .card-content {
+  padding: 20px;
+}
+
+.project-card .card-content h3 {
+  font-size: 20px;
+  margin: 10px 0;
+  color: var(--text-color);
+}
+
+.project-card .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  padding: 20px;
+}
+
+.project-card:hover .overlay {
+  opacity: 1;
+}
+
+.project-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.project-card:hover img {
+  transform: scale(1.05);
+}
+
+.project-card .btn-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.project-card .technology,
+.project-card .btn-secondary {
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.project-card .technology {
+  background-color: var(--primary-color);
+  color: white;
+  margin-right: 10px;
+}
+
+.project-card .btn-secondary {
+  background-color: transparent;
+  color: white;
+  border: 2px solid white;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.project-card .btn-secondary:hover {
+  background-color: white;
+  color: var(--primary-color);
+}
+
+/* Skills Section */
+.skills {
+  padding: 80px 0;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 30px;
+  margin-top: 40px;
+}
+
+.skill-item {
+  margin-bottom: 20px;
+}
+
+.skill-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.skill-bar {
+  height: 10px;
+  background-color: #E5E7EB;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.skill-level {
+  height: 100%;
+  background-color: var(--primary-color);
+  border-radius: 5px;
+}
+
+/* Contact Section */
+.contact {
+  padding: 80px 0;
+  background-color: #F3F4F6;
+}
+
+form {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+form input,
+form textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #D1D5DB;
+  border-radius: 4px;
+}
+
+form textarea {
+  height: 150px;
+}
+
+/* Data Analysis Project */
+.data-analysis {
+  padding: 80px 0;
+  background-color: #f9f9f9;
+}
+
+.chart-container {
+  margin-bottom: 40px;
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.chart-container:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.chart-container h3 {
+  margin-bottom: 20px;
+  color: var(--primary-color);
+}
+
+.chart-container:hover h3 {
+  color: var(--secondary-color);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .main-nav {
+      display: none;
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background-color: var(--background-color);
+      flex-direction: column;
+      padding: 20px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+
+  .main-nav.show {
+      display: flex;
+  }
+
+  .menu-toggle {
+      display: block;
+  }
+
+  .hero-title {
+      font-size: 36px;
+  }
+
+  .hero-subtitle {
+      font-size: 18px;
+  }
+
+  .profile-pic {
+      width: 150px;
+      height: 150px;
+  }
+}
+
+@media (max-width: 768px) {
+  .chart-container {
+      padding: 10px;
+  }
+  
+  .chart-container h3 {
+      font-size: 20px;
+  }
+}
