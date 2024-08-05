@@ -9,3 +9,4 @@ plotly
 statsmodels
 matplotlib
 seaborn
+dj_database_url
