@@ -104,5 +104,5 @@ CONTACT_EMAIL = os.getenv('CONTACT_EMAIL', 'contacto@tudominio.com')
 
 
 DATABASES = {
-    'default': dj_database_url.config(default='postgres://localhost')
+    'default': dj_database_url.config(conn_max_age=600)
 }
