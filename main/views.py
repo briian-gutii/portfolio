@@ -378,4 +378,4 @@ def nuevo_proyecto(request):
     return render(request, 'main/nuevo_proyecto.html', context)
 
 def home(request):
-    return render(request, 'main/index.html')
+    return redirect('project_index')
