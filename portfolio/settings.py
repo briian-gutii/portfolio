@@ -1,11 +1,12 @@
 import os
 from pathlib import Path
+import dj_database_url
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'tu_clave_secreta_aqui'
 
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = []
 
@@ -98,3 +99,10 @@ EMAIL_HOST_USER = os.getenv('EMAIL_HOST_USER', 'bryan15guti@gmail.com')
 EMAIL_HOST_PASSWORD = os.getenv('EMAIL_HOST_PASSWORD', 'auhw zask rtew pwsx')
 DEFAULT_FROM_EMAIL = EMAIL_HOST_USER
 CONTACT_EMAIL = os.getenv('CONTACT_EMAIL', 'contacto@tudominio.com')
+
+
+
+
+DATABASES = {
+    'default': dj_database_url.config(default='postgres://localhost')
+}
